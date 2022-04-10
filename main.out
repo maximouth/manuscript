@@ -1,0 +1,80 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{State of the Art}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Terms definition}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Moving Target Defense}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{MTD Categories}{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.2}{Measuring the effectiveness}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.3}{ Different way to measure effectiveness}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.4}{ Attack Timeline}{section.2.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Game Theory}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{Presentation}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.2}{General Definition}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.3}{Game representation}{section.2.3}% 12
+\BOOKMARK [2][-]{subsection.2.3.4}{Strategie}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.5}{Types of game}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.6}{Game resolution}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.7}{DOBSS}{section.2.3}% 16
+\BOOKMARK [1][-]{section.2.4}{Risk Analysis}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.4.1}{Attack tree}{section.2.4}% 18
+\BOOKMARK [2][-]{subsection.2.4.2}{Fault tree}{section.2.4}% 19
+\BOOKMARK [2][-]{subsection.2.4.3}{\(Dynamic\) Reliability Block Diagrams \(D\)RBD}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.4}{Boolean logic Driven Markov Processes \(BDMP\)}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.5}{CVSS}{section.2.4}% 22
+\BOOKMARK [1][-]{section.2.5}{Network}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.5.1}{Multipath TCP}{section.2.5}% 24
+\BOOKMARK [2][-]{subsection.2.5.2}{IP v6}{section.2.5}% 25
+\BOOKMARK [2][-]{subsection.2.5.3}{Car Network Topology}{section.2.5}% 26
+\BOOKMARK [2][-]{subsection.2.5.4}{Attack Entrypoints}{section.2.5}% 27
+\BOOKMARK [2][-]{subsection.2.5.5}{Time to find An IP}{section.2.5}% 28
+\BOOKMARK [1][-]{section.2.6}{Cyber-security principles}{chapter.2}% 29
+\BOOKMARK [0][-]{chapter.3}{Connected Cars}{}% 30
+\BOOKMARK [1][-]{section.3.1}{The software revolution}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.2}{Modern car software architecture}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.2.1}{AUTOSAR}{section.3.2}% 33
+\BOOKMARK [2][-]{subsection.3.2.2}{The software stacks}{section.3.2}% 34
+\BOOKMARK [1][-]{section.3.3}{Le risque cybers\351curit\351 pour l'automobile}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.4}{Car architecture over time }{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.5}{Car Architecture we used}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.6}{Existing Attacks}{chapter.3}% 38
+\BOOKMARK [1][-]{section.3.7}{Existing Defense}{chapter.3}% 39
+\BOOKMARK [0][-]{chapter.4}{Dynamic IPv6 addresses Switching}{}% 40
+\BOOKMARK [1][-]{section.4.1}{Problem Statement}{chapter.4}% 41
+\BOOKMARK [1][-]{section.4.2}{Motivating Example}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.3}{Pool-based Ip address Switch}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.3.1}{ Pool-based IP Address Switches}{section.4.3}% 44
+\BOOKMARK [2][-]{subsection.4.3.2}{Approach Principle}{section.4.3}% 45
+\BOOKMARK [2][-]{subsection.4.3.3}{ Example}{section.4.3}% 46
+\BOOKMARK [2][-]{subsection.4.3.4}{Protection}{section.4.3}% 47
+\BOOKMARK [2][-]{subsection.4.3.5}{Cost}{section.4.3}% 48
+\BOOKMARK [2][-]{subsection.4.3.6}{ Discussion}{section.4.3}% 49
+\BOOKMARK [1][-]{section.4.4}{Randomized Pool-based IP Address Switches}{chapter.4}% 50
+\BOOKMARK [2][-]{subsection.4.4.1}{Approach principle}{section.4.4}% 51
+\BOOKMARK [2][-]{subsection.4.4.2}{ Example}{section.4.4}% 52
+\BOOKMARK [2][-]{subsection.4.4.3}{Costs}{section.4.4}% 53
+\BOOKMARK [2][-]{subsection.4.4.4}{Randomization on Demand}{section.4.4}% 54
+\BOOKMARK [2][-]{subsection.4.4.5}{Discussion}{section.4.4}% 55
+\BOOKMARK [1][-]{section.4.5}{Conclusion}{chapter.4}% 56
+\BOOKMARK [0][-]{chapter.5}{Game Theory usage}{}% 57
+\BOOKMARK [1][-]{section.5.1}{Motivating Example }{chapter.5}% 58
+\BOOKMARK [1][-]{section.5.2}{Model presentation}{chapter.5}% 59
+\BOOKMARK [2][-]{subsection.5.2.1}{Model Structure}{section.5.2}% 60
+\BOOKMARK [2][-]{subsection.5.2.2}{Input Parameters}{section.5.2}% 61
+\BOOKMARK [2][-]{subsection.5.2.3}{How to Determine the Parameters}{section.5.2}% 62
+\BOOKMARK [1][-]{section.5.3}{Game Formalization}{chapter.5}% 63
+\BOOKMARK [2][-]{subsection.5.3.1}{Game Form}{section.5.3}% 64
+\BOOKMARK [2][-]{subsection.5.3.2}{Reward}{section.5.3}% 65
+\BOOKMARK [2][-]{subsection.5.3.3}{Payoff function}{section.5.3}% 66
+\BOOKMARK [2][-]{subsection.5.3.4}{Complementary Slackness}{section.5.3}% 67
+\BOOKMARK [2][-]{subsection.5.3.5}{Mixed Integer Quadratic Program \(MIQP\)}{section.5.3}% 68
+\BOOKMARK [1][-]{section.5.4}{Game Resolution}{chapter.5}% 69
+\BOOKMARK [2][-]{subsection.5.4.1}{MIQP to MILP Transformation}{section.5.4}% 70
+\BOOKMARK [2][-]{subsection.5.4.2}{Mixed Integer Linear Problem \(MILP\)}{section.5.4}% 71
+\BOOKMARK [2][-]{subsection.5.4.3}{Correspondence between the MIQP and the MILP }{section.5.4}% 72
+\BOOKMARK [1][-]{section.5.5}{Experimentation}{chapter.5}% 73
+\BOOKMARK [2][-]{subsection.5.5.1}{Experimental Case}{section.5.5}% 74
+\BOOKMARK [2][-]{subsection.5.5.2}{Scaling tests}{section.5.5}% 75
+\BOOKMARK [2][-]{subsection.5.5.3}{Stability Analysis}{section.5.5}% 76
+\BOOKMARK [0][-]{chapter.6}{Conclusions et perspectives}{}% 77
+\BOOKMARK [1][-]{section.6.1}{Les fronti\350res de la recherche}{chapter.6}% 78
+\BOOKMARK [0][-]{appendix.A}{Ma belle annexe}{}% 79
+\BOOKMARK [1][-]{section.A.1}{Introduction}{appendix.A}% 80

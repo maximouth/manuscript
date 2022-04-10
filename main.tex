@@ -1,0 +1,237 @@
+\documentclass[20pt]{report}
+%\documentclass{article}
+
+
+\usepackage{sectsty}
+
+\chapternumberfont{\Large} 
+\chaptertitlefont{\Large}
+
+\sectionfont{\fontsize{15}{15}\selectfont}
+
+\subsectionfont{\fontsize{12}{15}\selectfont}
+
+\subsubsectionfont{\fontsize{10}{15}\selectfont}
+
+%\usepackage{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage{extsizes}
+\usepackage{fancyhdr,fancybox}
+\usepackage{latexsym}
+\usepackage{amsfonts,amssymb}
+%\usepackage{pifont}
+\usepackage{psfrag}
+\usepackage{placeins}
+\usepackage{amsmath,amsthm,amssymb,amsfonts,amsxtra}
+\usepackage{diagbox}
+
+\usepackage{graphicx}
+\graphicspath{ {Images/} }
+
+%%%%%%%%%%%%%%%%%
+
+
+\usepackage{listings}
+\usepackage[utf8]{inputenc}
+\usepackage{helvet}
+%\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage{xcolor}
+\usepackage[absolute,overlay]{textpos}
+%\usepackage{graphicx}
+%\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage[font=scriptsize]{caption}
+\usepackage[font=scriptsize]{subcaption}
+\usepackage{multicol}
+\setlength{\columnseprule}{0pt}
+\setlength\columnsep{10pt}
+%\usepackage[french]{babel}
+\usepackage{newunicodechar}
+\newunicodechar{ﬁ}{fi}
+
+\label{form}
+
+\newcommand{\PhDTitle}{Adaptive Architectural Reconfiguration for Improved Resilience of
+Connected Cars} 	%% Titre de la these / Thesis title
+\newcommand{\PhDname}{Ayrault Maxime} 															%% Civilit\'e, nom et pr\'enom /  Civility, first name and name 
+\newcommand{\NNT}{20XXIPPAXXXX} 															%% Num\'ero National de These (donn\'ee par la bibliotheque à la suite du 1er d\'epôt)/ National Thesis Number (given by the Library after the first deposit)
+
+\newcommand{\ecodoctitle}{\'Ecole doctorale de l'Institut Polytechnique de Paris} 													%% Nom de l'ED : \'Ecole doctorale de l'Institut Polytechnique de Paris, \'Ecole doctorale de math\'ematiques Hadamard  / Full name of Doctoral School : \'Ecole doctorale de l'Institut Polytechnique de Paris, \'Ecole doctorale de math\'ematiques Hadamard
+\newcommand{\ecodocacro}{EDIPP}																%% Sigle de l'ED : EDIPP, EDMH / Acronym of the Doctoral School : EDIPP, EDMH
+\newcommand{\ecodocnum}{000} 																%% Num\'ero de l'\'ecole doctorale : 626 (EDIPP), 574 (EDMH) / Doctoral School number : 626 (EDIPP), 574 (EDMH)
+\newcommand{\PhDspeciality}{9 - Département Sciences et technologies de l'information et de 
+la communication} 										%% Sp\'ecialit\'e de doctorat / Speciality 
+\newcommand{\PhDworkingplace}{T\'el\'ecom ParisTech} 										%% \'Etablissement de pr\'eparation / PhD working place :  l'\'Ecole polytechnique, l'\'Ecole nationale sup\'erieure de techniques avanc\'ees, l'\'Ecole nationale de la statistique et de l’administration \'economique, T\'el\'ecom ParisTech, T\'el\'ecom SudParis, l’\'Ecole des hautes \'etudes commerciales de Paris   
+\newcommand{\defenseplace}{Palaiseau} 											%% Ville de soutenance / Place of defense
+\newcommand{\defensedate}{?} 															%% Date de soutenance / Date of defense
+
+%%% \'Etablissement / Institution
+								%% NE PAS MODIFIER / DO NOT MODIFY
+\newcommand{\logoEt}{TP} 																	%% Logo de l'\'etablissement de soutenance. Le nom du fichier correspond au sigle de l'\'etablissement : ENSAE, ENSTA, TP, TSP, X  / Institution logo. Filename correspond to institution acronym : ENSAE, ENSTA, HEC, TP, TSP, X 
+\newcommand{\vpos}{0.1}																		%% À modifier au besoin pour aligner le logo verticalement / If needed, modify to align logo vertilcally
+\newcommand{\hpos}{12.25}																		%% À modifier au besoin pour aligner le logo horizontalement / If needed, modify to align logo horizontaly
+
+
+%%% JURY
+
+% Lors du premier d\'epôt de la these le nom du pr\'esident n'est pas connu, le choix du pr\'esident se fait par les membres du Jury juste avant la soutenance. La pr\'ecision est apport\'ee sur la couverture lors du second d\'epôt / Choice of the jury's president is made during the defense. Thus, it must be specified only for the second file deposition in ADUM.
+% Tous les membres du juty list\'es doivent avoir \'et\'e pr\'esents lors de la soutenance / All the jury members listed here must have been present during the defense.
+
+%%% Membre n°1 (Pr\'esident) / Member n°1 (President)
+\newcommand{\jurynameA}{Pr\'enom Nom}
+\newcommand{\juryadressA}{Statut, \'Etablissement (Unit\'e de recherche)}
+\newcommand{\juryroleA}{Pr\'esident}
+
+%%% Membre n°2 (Rapporteur) / Member n°2 (Reviewer)
+\newcommand{\jurynameB}{Pr\'enom Nom}
+\newcommand{\juryadressB}{Statut, \'Etablissement (Unit\'e de recherche)}
+\newcommand{\juryroleB}{Rapporteur}
+
+%%% Membre n°3 (Rapporteur) / Member n°3 (Reviewer)
+\newcommand{\jurynameC}{Pr\'enom Nom}
+\newcommand{\juryadressC}{Statut, \'Etablissement (Unit\'e de recherche)}
+\newcommand{\juryroleC}{Rapporteur}
+
+%%% Membre n°4 (Examinateur) / Member n°4 (Examiner)
+\newcommand{\jurynameD}{Pr\'enom Nom}
+\newcommand{\juryadressD}{Statut, \'Etablissement (Unit\'e de recherche)}
+\newcommand{\juryroleD}{Examinateur}
+
+%%% Membre n°5 (Directeur de these) / Member n°5 (Thesis supervisor)
+\newcommand{\jurynameE}{Borde Etienne}
+\newcommand{\juryadressE}{Enseignant Chercheur, T\'el\'ecom-Paris (INFRES)}
+\newcommand{\juryroleE}{Directeur de these}
+
+%%% Membre n°6 (Co-directeur de these) / Member n°6 (Thesis co-supervisor)
+\newcommand{\jurynameF}{Kühne Ulrich }
+\newcommand{\juryadressF}{Enseignant Chercheur, T\'el\'ecom-Paris (Comelec)}
+\newcommand{\juryroleF}{Co-directeur de these}
+
+%%% Membre n°7 (Invit\'e) / Member n°7 (Guest)
+\newcommand{\jurynameG}{Pr\'enom Nom}
+\newcommand{\juryadressG}{Statut, \'Etablissement (Unit\'e de recherche)}
+\newcommand{\juryroleG}{Invit\'e}
+
+%%% Membre n°8 (Invit\'e) / Member n°8 (Guest)
+\newcommand{\jurynameH}{Pr\'enom Nom}
+\newcommand{\juryadressH}{Statut, \'Etablissement (Unit\'e de recherche)}
+\newcommand{\juryroleH}{Invit\'e}
+
+%% Il est possible d'ajouter des membres suppl\'ementaires selon le même modele / More jury members can be added according to the same model
+
+\label{layout}
+
+% M\'eta-donn\'ees du PDF / PDF meta-datas
+\hypersetup{
+	pdfauthor={\PhDname},
+	pdfsubject={Manuscrit de these de doctorat},
+	pdftitle={\PhDTitle},
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%
+
+
+\usepackage{rotating}
+
+\usepackage{caption}
+\usepackage{subcaption}
+%\usepackage{subfigure}
+
+\usepackage[a4paper]{geometry}
+%\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage{fancyhdr}
+
+\usepackage[acronym,nonumberlist]{glossaries}
+\input{glossary}
+
+
+\usepackage{floatrow}
+\DeclareFloatFont{tiny}{\tiny}% "scriptsize" is defined by floatrow, "tiny" not
+\floatsetup[table]{font=scriptsize}
+
+\renewcommand{\footnotesize}{\fontsize{9pt}{11pt}}
+
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[RO,LE]{Header}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LO,CE]{Chapter \thechapter}
+\fancyfoot[CO,RE]{Maximouth}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{1pt}
+
+\newtheorem{defn}{Definition}[chapter]
+\newtheorem{thm}{Theorem}[chapter]
+\newtheorem{lem}{Lemma}
+\newtheorem{prop}{Proposition}[chapter]
+\newtheorem{tbd}{Todo list}
+
+\newcommand{\bb}[1]{\mathbb{#1}}
+\newcommand{\R}{\bb{R}}
+
+
+\usepackage{biblatex}
+\addbibresource{./references.bib}
+
+\renewcommand*{\bibfont}{\tiny}
+
+\title{C'est ma th\`ese}
+\author{Maxime Ayrault}
+\date{29 F\'evrier 2064}
+
+\begin{document}
+
+\input{page_garde}
+
+\input{abstract}
+
+
+\chapter*{D\'edicace}
+%\`A mon Homer ador\'e...
+
+\chapter*{Remerciements}
+%Je remercie Jean-Do pour ces conseils avis\'es.....
+
+\tableofcontents
+
+\listoffigures
+
+\listoftables
+
+
+%\thispagestyle{empty}
+
+\input{Sections/1_introduction}
+
+\input{Sections/2_state_of_art}
+
+\input{Sections/3_connected_car}
+
+\input{Sections/4_ip_mtd}
+
+\input{Sections/5_game_theory_usage}
+
+\input{Sections/5_conclusion}
+
+% Acronyms and gloaasry
+\clearpage
+\printglossary[type=\acronymtype]
+
+\printglossary
+
+\newpage
+\printbibliography
+
+\newpage
+\appendix
+\input{Sections/A1_appendice}
+
+
+\end{document}

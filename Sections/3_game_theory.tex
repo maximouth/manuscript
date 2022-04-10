@@ -1,0 +1,144 @@
+\chapter{La th\'eorie des jeux} \label{CHAP3}
+\smallskip
+\hfill
+\begin{minipage}[b]{8cm}
+{\it Il est tr\`es important, pour celui qui souhaite d\'ecouvrir, de ne pas limiter son esprit \'a un seul chapitre de la
+science mais plut\^ot de rester en contact avec plusieurs autres.}
+\end{minipage}
+\begin{flushright} Jacques Hadamard. \end{flushright}
+\vskip 2cm
+
+
+\section{Pr\'esentation}
+La th\'eorie des jeux est la science de la prise de d\'ecision strat\'egique. La th\'eorie des jeux a \'et\'e utilis\'ee dans des sciences aussi diverses que la biologie \'evolutionniste, le management des d\'ecisions (politique) et l'\'economie. Elle peut \^etre d\'efinie comme l'\'etude de mod\`eles math\'ematiques des conflits et coop\'erations entre d\'ecideurs intelligents et rationnels.
+La th\'eorie des jeux fournit des techniques math\'ematiques g\'en\'erales pour analyser des situations dans lesquelles deux personnes ou plus prennent des d\'ecisions qui s'influencent mutuellement.
+
+Dans le langage de la th\'eorie des jeux, un jeu fait r\'ef\'erence \`a toute situation impliquant deux sujets ou plus. Les sujets impliqu\'es dans un jeu peuvent \^etre appel\'es les \emph{joueurs}. Comme indiqu\'e dans la d\'efinition ci-dessus, il y a deux hypoth\`eses de base que les th\'eoriciens des jeux font g\'en\'eralement \`a propos des joueurs: ils sont rationnels et intelligents. 
+Chacun de ces adjectifs est utilis\'e ici dans un sens technique qui n\'ecessite quelques explications. Un d\'ecideur est rationnel s'il prend des d\'ecisions de mani\`ere coh\'erente de ses propres objectifs. En th\'eorie des jeux, en s'appuyant sur le fondamental r\'esultats de la th\'eorie de la d\'ecision, nous supposons que l'objectif de chaque joueur est de maximiser la valeur attendue de son propre gain, qui est mesur\'e en une certaine \'echelle d'utilit\'e. L'id\'ee derri\`ere un \emph{d\'ecideur rationnel} est que les actions s\'electionn\'ees (nomm\'ees \emph{strat\'egies}) maximiseront les b\'en\'efices d'utilit\'e attendus par le joueur. Cette id\'ee remonte au moins \`a Bernoulli (1738), mais la justification moderne de cette id\'ee tient \`a Von Neumann et Morgenstern (1947) ([xx]).
+
+
+\section{D\'efinition g\'en\'erale}
+Pour expliquer les concepts de la th\'eorie des jeux, prenons un exemple; "\emph{l'\'evitement de la congestion du r\'eseau internet}". Le r\'eseau internet est bas\'e sur le protocole TCP/IP. En TCP/IP, un fichier est d\'ecoup\'e en paquets qui transitent entre les diff\'erents noeuds du r\'eseau entre l'\'emetteur et le r\'ecepteur. Chaque fois que le r\'ecepteur re\c{c}oit un paquet, il envoie un accus\'e de r\'eception \`a l'\'emetteur. De cette fa\c{c}on, le l\'emetteur sait que le paquet est bien arriv\'e. Le protocole TCP/IP cherche \`a augmenter le d\'ebit du r\'eseau jusqu'\`a sa saturation. Lorsque l'un des noeuds du r\'eseau est satur\'e, il efface des paquets jusqu'\`a d\'esaturer. L'\'emetteur ne recevant plus d'accus\'e r\'eception pour un paquet va le r\'e-\'emettre apr\`es une certaine temporisation (g\'er\'e par l'algorithme d'\'evitement de congestion). Si tous les \'emetteurs suivent cette r\`egle, cela  permet de d\'esaturer le noeud pour le b\'en\'efice de l'ensemble des utilisateurs. Cependant, il est possible pour certains \'emetteurs de violer cette r\`egle et de r\'e-\'emettre le message sans latence. 
+
+Ce comportement peut \^etre mod\'elis\'e en th\'eorie des jeux.  Imaginons, deux personnes utilisant Internet. Elles ont deux choix possibles\ :
+\begin{itemize}
+\item Utiliser la version correct de l'algorithme d'\'evitement de congestion du r\'eseau. Cette strat\'egie est not\'ee \emph{C}.
+\item Utiliser une version d\'efectueuese de l'algorithme d'\'evitement de congestion du r\'eseau. Cette strat\'egie est not\'ee \emph{D}.
+\end{itemize}
+
+Le comportement du r\'eseau est le suivant; si les 2 personnes choisissent la strat\'egie \emph{C}, chaque paquet sera retard\'e de 2ms. Si les 2 personnes choisissent la strat\'egie \emph{D}, chaque paquet sera retard\'e de 4ms. Si une des personnes choisit l'action \emph{C} et l'autre l'action \emph{D}, le premier voit ses paquets retard\'es de 6ms et le second voit ses paquets re\c{c}us sans retard. Bien s\^ur, chaque personne est rationnel et cherche \'a augmenter son d\'ebit, c'est \`a dire dans notre exmple, \`a minimiser le retard de ses paquets.
+
+
+\subsection{Types de jeux}
+\subsubsection{Jeux simultan\'es}
+
+\subsubsection{Jeux tour par tour}
+
+\subsubsection{Jeux baysien}
+
+\subsubsection{Jeux stochastique}
+
+\subsubsection{Jeux dynamiques}
+
+\subsubsection{Jeux \`a apprentissage}
+
+
+\begin{defn}
+Un jeu peut \^etre mod\'elis\'e par un triplet $<N, S, u>$ avec:
+\begin{itemize}
+\item N repr\'esente les joueurs. $N = \{1,2,\ldots,n\}$ est un ensemble de cardinal $n$ (nombre de joueurs dans le jeu). 
+\item $S$ repr\'esente l'ensemble des combinaisons de strat\'egies possibles pour l'ensemble des joueurs $S: S_1 \times S_2 \times \ldots \times S_n$ avec $S_i$ l'ensembles des strat\'egies possibles pour le joueur $i$. Tous les joueurs n'ont pas n\'ecessairement les m\^eme strat\'egies et certaines combinaisons de strat\'egies peuvent \^etre impossibles. 
+\item $u$ repr\'esente la fonction de $u: S \to \R^n$ qui associe \`a chaque combinaison de strat\'egie une valeur d'utili\'e avec pour chaque $u_i$\ :
+  \begin{itemize}
+  \item une valeur n\'egative repr\'esentant une perte pour le joueur $i$
+  \item une valeur positive repr\'esentant un gain pour le joueur $i$
+  \end{itemize} 
+\end{itemize}
+\end{defn}
+
+Il est plus commode de repr\'esenter la fonction d'utilit\'e pour le joueur $i$ comme $u(s_i, s_{-i})$, avec 
+$s_{-i} = (s_1, s_2, \ldots, s_{i-1}, s_{i+1}, \ldots, s_n)$ qui repr\'esente la strat\'egie jou\'ee par tous les autres joueurs et de noter $u_i$ la i-\`eme composante de la fonction d'utilit\'e.
+\\
+
+Pour notre exemple, nous avons:
+\begin{itemize}
+\item 2 joueurs, $N = \{1,2\}$
+\item les strat\'egies possibles pour les 2 joueurs sont identiques $S_1 = S_2 = \{C,D\}$. Et l'ensemble des combinaisons de strat\'egies possibles est d\'efini comme $S=\{(C,C),(D,C),(C,D),(D,D)\}$
+\item la fonction utilit\'e peut \^etre repr\'esent\'ee par la matrice suivante\ :
+\end{itemize} 
+
+\begin{center} 
+\begin{tabular}{|c||c|c|}
+\hline 
+\diagbox{$Joueur_1$}{$Joueur_2$}  & $C$ & $D$ \\ 
+\hline \hline
+$C$ & (-2,-2) & (-6,0) \\ 
+\hline 
+$D$ & (0,-6) & (-4,-4) \\ 
+\hline 
+\end{tabular}
+\end{center}
+
+\section{Strat\'egie pure}
+\subsection{Dominance}
+
+Intro Dominance
+
+\begin{defn}
+Une strat\'egie $s^{*}_{i}$ \emph{domine strictement} (strictly dominates) la strat\'egie $s_i$ ssi\ :
+$$
+\forall s_{-i} \in S_{-i}, u_i(s^{*}_{i}, s_{-i}) > u_i(s_{i}, s_{-i}) 
+$$
+\end{defn}
+
+Quelque soit ce la strat\'egie choisie que les autres joueurs, la strat\'egie $s^{*}_{i}$ est le meilleur choix pour le joueur $i$. Comme le joueur $i$ est rationel, il ne va jamais jouer une strat\'egie domin\'ee $s_i$. 
+
+\begin{defn}
+Une strat\'egie $s^{*}_{i}$ \emph{domine faiblement} (weakly dominates) la strat\'egie $s_i$, ssi
+$$
+\forall s_{-i} \in S_{-i}, u_i(s^{*}_{i}, s_{-i}) \geq u_i(s_{i}, s_{-i}) 
+$$
+et
+$$
+\exists s_{-i} \in S_{-i}, u_i(s^{*}_{i}, s_{-i}) > u_i(s_{i}, s_{-i})
+$$
+\end{defn}
+
+Quelque soit la strat\'egie choisie par les autres joueurs, la strat\'egie $s^{*}_{i}$ est au moins aussi bonne que la strat\'egie $s_i$ pour le joueur $i$. 
+
+
+Il est maintenant possible d'\'etendre ces d\'efinitions sur l'ensemble des strat\'egies possibles pour le joueur $i$.
+
+\begin{defn}
+Une strat\'egie $s^{d}_{i}$ est \emph{strictement dominante} (resp. \emph{faiblement dominante}) pour le joueur $i$ ssi $s^{d}_{i}$ domine strictement (resp. domine faiblement) toutes les autres strat\'egie pour le joueur $i$.
+\end{defn}
+
+Pour notre exemple, pour le joueur 1, la strat\'egie $D$ domine strictement la strat\'egie $C$. En effet, on a $S_{-1} = \{C, D\}$. pour $s_{-1} = {C}, u_1(D, C) > u_1(C, C)$ et pour $s_{-1} = {D}, u_1(D, D) > u_1(C, D)$. En fait, la strat\'egie $D$ est \'egalement la strat\'egie strictement dominante pour le joueur 2.
+
+Comme le joueur $i$ est rationnel, et qu'il existe une strat\'egie strictement dominante, alors le joueur $i$ ne va pas jouer une autre strat\'egie.
+
+
+\subsection{\'Equilibre}
+\begin{defn}
+Un \emph{profil de strat\'egie} (strategy profile) $S^{d} = (s^d_1, s^d_2, ldots, s^d_n)$ est un \emph{\'equilibre strictement dominant} ssi $s^d_i$ est une strat\'egie dominante pour chaque joueur $i$.
+\end{defn}
+
+Pour notre exemple, $S^d = (D,D)$ est un \'equilibre strictement dominant. Il est int\'eressant de remarquer l'importance des valeurs de la fonction d'utilit\'e. Si on prend l'hypoth\`ese que le r\'eseau s'\'ecroule dans le cas o\`u les 2 joueurs suivent le strat\'egie d\'efectueuse (ie $u(D,D) = (-8,-8)$). Alors il n'y a plus de strat\'egie dominante pour chaque joueur, et donc plus d'\'equilibre strictement dominant. 
+
+
+\begin{defn}
+Pour le joueur $i$, une strat\'egie $s_i$ est nomm\'ee \emph{meilleure r\'eponse} (Best Response) pour le profil de strat\'egie $\sigma_{-i}$, ssi 
+$$\forall s'_i \in S_i, u_i(s_i, \delta_{-i}) \geq u_i(s'_i, \sigma_{-i})$$
+\end{defn}
+
+On note $MR(\sigma_{-i})$, l'ensemble des meilleures r\'eponses en face de $\sigma_{-1}$.
+
+\begin{defn}
+Un profil de strat\'egie $s^* = (s^*_1, s^*_2, \ldots, s^*_n)$ est une \emph{\'quilibre de Nash} ssi pour chaque joueur $i$, $s^*_i$ est la meilleure r\'eponse.  
+\end{defn}
+
+
+
+
+\section{Strat\'egie mixte}
+

@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297.04166mm"
+   height="388.51035mm"
+   viewBox="0 0 297.04166 388.51032"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Car_net.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3133"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3131"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3106"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3104"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3055"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3053"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient3003"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#3ed03c;stop-opacity:1;"
+         offset="0"
+         id="stop3001" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1533"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1531"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1529"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1527"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1523"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1521"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1519"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1517"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1513"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1511"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1509"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1507"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1503"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1501"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1499"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1497"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1493"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1491"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1489"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1487"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1483"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1481"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1479"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1477"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1473"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1471"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1469"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1467"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1463"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1461"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1459"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1457"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399c9e;fill-opacity:1;fill-rule:evenodd;stroke:#399c9e;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1420"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1418"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1416"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1414"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1410"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1408"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1406"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1404"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1400"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1398"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1396"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1394"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1390"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1388"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1386"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1384"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#399e47;fill-opacity:1;fill-rule:evenodd;stroke:#399e47;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1378"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1376"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1374"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1372"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1370"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1368"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1103"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient6646"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0036e0;stop-opacity:1;"
+         offset="0"
+         id="stop6644" />
+    </linearGradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient5967"
+       gradientUnits="userSpaceOnUse"
+       x="29.104166"
+       y="21.833332">
+      <meshrow
+         id="meshrow5969">
+        <meshpatch
+           id="meshpatch5971">
+          <stop
+             path="c 8.81944,0  17.6389,0  26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop5973" />
+          <stop
+             path="c 0,7.9375  0,15.875  0,23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop5975" />
+          <stop
+             path="c -8.81944,0  -17.6389,0  -26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop5977" />
+          <stop
+             path="c 0,-7.9375  0,-15.875  0,-23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop5979" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       y="21.833332"
+       x="68.791664"
+       gradientUnits="userSpaceOnUse"
+       id="meshgradient6213"
+       inkscape:collect="always">
+      <meshrow
+         id="meshrow6215">
+        <meshpatch
+           id="meshpatch6217">
+          <stop
+             path="c 8.81945,0  17.6389,0  26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6219" />
+          <stop
+             path="c 0,7.9375  0,15.875  0,23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop6221" />
+          <stop
+             path="c -8.81945,0  -17.6389,0  -26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6223" />
+          <stop
+             path="c 0,-7.9375  0,-15.875  0,-23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop6225" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       y="21.833332"
+       x="108.47917"
+       gradientUnits="userSpaceOnUse"
+       id="meshgradient6261"
+       inkscape:collect="always">
+      <meshrow
+         id="meshrow6263">
+        <meshpatch
+           id="meshpatch6265">
+          <stop
+             path="c 8.81945,0  17.6389,0  26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6267" />
+          <stop
+             path="c 0,7.9375  0,15.875  0,23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop6269" />
+          <stop
+             path="c -8.81945,0  -17.6389,0  -26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6271" />
+          <stop
+             path="c 0,-7.9375  0,-15.875  0,-23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop6273" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       y="21.833332"
+       x="148.16667"
+       gradientUnits="userSpaceOnUse"
+       id="meshgradient6309"
+       inkscape:collect="always">
+      <meshrow
+         id="meshrow6311">
+        <meshpatch
+           id="meshpatch6313">
+          <stop
+             path="c 8.81945,0  17.6389,0  26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6315" />
+          <stop
+             path="c 0,7.9375  0,15.875  0,23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop6317" />
+          <stop
+             path="c -8.81945,0  -17.6389,0  -26.4583,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6319" />
+          <stop
+             path="c 0,-7.9375  0,-15.875  0,-23.8125"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop6321" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6646"
+       id="linearGradient6648"
+       x1="43.392933"
+       y1="87.979164"
+       x2="61.117481"
+       y2="87.979164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(19.843755,7.6293948e-6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6646"
+       id="linearGradient6648-4"
+       x1="43.392933"
+       y1="87.979164"
+       x2="61.117481"
+       y2="87.979164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(50.270836,1.2862728e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6646"
+       id="linearGradient6648-3"
+       x1="43.392933"
+       y1="87.979164"
+       x2="61.117481"
+       y2="87.979164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(79.375011,1.2862728e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3003"
+       id="linearGradient6648-6-3"
+       x1="43.392933"
+       y1="87.979164"
+       x2="61.117481"
+       y2="87.979164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(50.270826,47.625041)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3003"
+       id="linearGradient6648-6-9"
+       x1="43.392933"
+       y1="87.979164"
+       x2="61.117481"
+       y2="87.979164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(79.374995,47.625014)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3003"
+       id="linearGradient3005"
+       x1="63.236687"
+       y1="135.60417"
+       x2="80.961235"
+       y2="135.60417"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="555.55002"
+     inkscape:cy="701.01021"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4518"
+       originx="32.860123"
+       originy="97.540838" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(32.860114,-6.0305118)">
+    <rect
+       style="opacity:0.203;fill:url(#meshgradient5967);fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520"
+       width="26.458332"
+       height="23.8125"
+       x="29.104166"
+       y="21.833332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="39.300087"
+       y="33.683357"
+       id="text5983"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981"
+         x="39.300087"
+         y="33.683357"
+         style="stroke-width:0.08205647">ARM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="38.861172"
+       y="48.851212"
+       id="text5983-3"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6"
+         x="38.861172"
+         y="48.851212"
+         style="stroke-width:0.08205647">Linux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="31.299911"
+       y="15.732749"
+       id="text5983-3-7"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5"
+         x="31.299911"
+         y="15.732749"
+         style="stroke-width:0.08205647">Infotainement </tspan><tspan
+         sodipodi:role="line"
+         x="31.299911"
+         y="19.835573"
+         style="stroke-width:0.08205647"
+         id="tspan7567">screen</tspan></text>
+    <rect
+       style="opacity:0.203;fill:url(#meshgradient6213);fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-3"
+       width="26.458334"
+       height="23.8125"
+       x="68.791664"
+       y="21.833332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="79.499184"
+       y="33.683357"
+       id="text5983-5"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-62"
+         x="79.499184"
+         y="33.683357"
+         style="stroke-width:0.08205647">ARM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="79.060265"
+       y="48.851208"
+       id="text5983-3-9"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-1"
+         x="79.060265"
+         y="48.851208"
+         style="stroke-width:0.08205647">Linux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="76.541718"
+       y="19.277824"
+       id="text5983-3-7-2"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-7"
+         x="76.541718"
+         y="19.277824"
+         style="stroke-width:0.08205647">Camera</tspan></text>
+    <rect
+       style="opacity:0.203;fill:url(#meshgradient6261);fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-0"
+       width="26.458334"
+       height="23.8125"
+       x="108.47917"
+       y="21.833332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="119.69828"
+       y="33.683357"
+       id="text5983-9"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-3"
+         x="119.69828"
+         y="33.683357"
+         style="stroke-width:0.08205647">ARM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="119.25938"
+       y="48.851208"
+       id="text5983-3-6"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-0"
+         x="119.25938"
+         y="48.851208"
+         style="stroke-width:0.08205647">Linux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="107.67188"
+       y="19.277824"
+       id="text5983-3-7-6"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-2"
+         x="107.67188"
+         y="19.277824"
+         style="stroke-width:0.08205647">Autonomous Driving</tspan></text>
+    <rect
+       style="opacity:0.203;fill:url(#meshgradient6309);fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-7"
+       width="26.458334"
+       height="23.8125"
+       x="148.16667"
+       y="21.833332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="159.8974"
+       y="33.683357"
+       id="text5983-59"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-2"
+         x="159.8974"
+         y="33.683357"
+         style="stroke-width:0.08205647">ARM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="159.45848"
+       y="48.851208"
+       id="text5983-3-2"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-8"
+         x="159.45848"
+         y="48.851208"
+         style="stroke-width:0.08205647">Linux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="155.77943"
+       y="11.40933"
+       id="text5983-3-7-9"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-73"
+         x="155.77943"
+         y="11.40933"
+         style="stroke-width:0.08205647">Cellular</tspan><tspan
+         sodipodi:role="line"
+         x="155.77943"
+         y="15.512154"
+         style="stroke-width:0.08205647"
+         id="tspan7563">Wi-Fi</tspan><tspan
+         sodipodi:role="line"
+         x="155.77943"
+         y="19.614979"
+         style="stroke-width:0.08205647"
+         id="tspan7565">Bluetooth</tspan></text>
+    <rect
+       style="opacity:0.15500004;fill:url(#linearGradient6648);fill-opacity:1;stroke:#000000;stroke-width:0.52662462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-6"
+       width="17.197922"
+       height="15.875003"
+       x="63.5"
+       y="80.041664" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="67.439461"
+       y="86.113152"
+       id="text5983-1"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         x="67.439461"
+         y="86.113152"
+         style="stroke-width:0.08205647"
+         id="tspan6650">16 bits</tspan><tspan
+         sodipodi:role="line"
+         x="67.439461"
+         y="90.215973"
+         style="stroke-width:0.08205647"
+         id="tspan6654">  CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="67.670525"
+       y="75.999023"
+       id="text5983-3-7-4"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78"
+         x="67.670525"
+         y="75.999023"
+         style="stroke-width:0.08205647">Airbag</tspan></text>
+    <rect
+       style="opacity:0.15500004;fill:url(#linearGradient6648-4);fill-opacity:1;stroke:#000000;stroke-width:0.52662462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-6-0"
+       width="17.197924"
+       height="15.875003"
+       x="93.927078"
+       y="80.041664" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="98.258766"
+       y="86.113152"
+       id="text5983-1-3"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         x="98.258766"
+         y="86.113152"
+         style="stroke-width:0.08205647"
+         id="tspan6650-6">16 bits</tspan><tspan
+         sodipodi:role="line"
+         x="98.258766"
+         y="90.215973"
+         style="stroke-width:0.08205647"
+         id="tspan6654-1">  CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="100.21265"
+       y="75.999023"
+       id="text5983-3-7-4-0"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-6"
+         x="100.21265"
+         y="75.999023"
+         style="stroke-width:0.08205647">ESP</tspan></text>
+    <rect
+       style="opacity:0.15500004;fill:url(#linearGradient6648-3);fill-opacity:1;stroke:#000000;stroke-width:0.52662462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-6-06"
+       width="17.197924"
+       height="15.875003"
+       x="123.03124"
+       y="80.041664" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="127.73811"
+       y="86.113152"
+       id="text5983-1-1"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         x="127.73811"
+         y="86.113152"
+         style="stroke-width:0.08205647"
+         id="tspan6650-5">16 bits</tspan><tspan
+         sodipodi:role="line"
+         x="127.73811"
+         y="90.215973"
+         style="stroke-width:0.08205647"
+         id="tspan6654-5">  CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="130.26628"
+       y="75.812439"
+       id="text5983-3-7-4-4"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-7"
+         x="130.26628"
+         y="75.812439"
+         style="stroke-width:0.08205647">ABS</tspan></text>
+    <rect
+       style="opacity:0.15500004;fill:url(#linearGradient3005);fill-opacity:1;stroke:#000000;stroke-width:0.52662462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-6-6"
+       width="17.197924"
+       height="15.875003"
+       x="63.5"
+       y="127.66666" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.10045671px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07751141"
+       x="64.526619"
+       y="133.10251"
+       id="text5983-1-9"
+       transform="scale(0.98809389,1.0120496)"><tspan
+         sodipodi:role="line"
+         x="64.526619"
+         y="133.10251"
+         style="stroke-width:0.07751141"
+         id="tspan6650-3">    8 bits</tspan><tspan
+         sodipodi:role="line"
+         x="64.526619"
+         y="136.97807"
+         style="stroke-width:0.07751141"
+         id="tspan6654-7">ucontroller </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="66.521973"
+       y="123.01791"
+       id="text5983-3-7-4-45"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-2"
+         x="66.521973"
+         y="123.01791"
+         style="stroke-width:0.08205647">window</tspan></text>
+    <rect
+       style="opacity:0.15500004;fill:url(#linearGradient6648-6-3);fill-opacity:1;stroke:#000000;stroke-width:0.52662462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-6-6-7"
+       width="17.197926"
+       height="15.875003"
+       x="93.927078"
+       y="127.66666" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.10045671px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07751141"
+       x="95.320335"
+       y="133.10252"
+       id="text5983-1-9-5"
+       transform="scale(0.98809387,1.0120496)"><tspan
+         sodipodi:role="line"
+         x="95.320335"
+         y="133.10252"
+         style="stroke-width:0.07751141"
+         id="tspan6650-3-3">    8 bits</tspan><tspan
+         sodipodi:role="line"
+         x="95.320335"
+         y="136.97809"
+         style="stroke-width:0.07751141"
+         id="tspan6654-7-5">ucontroller </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="99.638367"
+       y="123.20451"
+       id="text5983-3-7-4-45-6"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-2-2"
+         x="99.638367"
+         y="123.20451"
+         style="stroke-width:0.08205647">lock</tspan></text>
+    <rect
+       style="opacity:0.15500004;fill:url(#linearGradient6648-6-9);fill-opacity:1;stroke:#000000;stroke-width:0.52662462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520-6-6-2"
+       width="17.197912"
+       height="15.875027"
+       x="123.03124"
+       y="127.66669" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.10045671px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07751141"
+       x="124.77519"
+       y="133.10254"
+       id="text5983-1-9-7"
+       transform="scale(0.98809387,1.0120496)"><tspan
+         sodipodi:role="line"
+         x="124.77519"
+         y="133.10254"
+         style="stroke-width:0.07751141"
+         id="tspan6650-3-0">    8 bits</tspan><tspan
+         sodipodi:role="line"
+         x="124.77519"
+         y="136.9781"
+         style="stroke-width:0.07751141"
+         id="tspan6654-7-9">ucontroller </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="128.44492"
+       y="123.80953"
+       id="text5983-3-7-4-45-3"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-2-6"
+         x="128.44492"
+         y="123.80953"
+         style="stroke-width:0.08205647">TPMS</tspan></text>
+    <path
+       style="fill:none;stroke:#399e47;stroke-width:0.70917034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.458333,64.166667 H 179.91667"
+       id="path1380"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399e47;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1386);marker-end:url(#marker1390)"
+       d="M 34.395833,45.645834 V 64.166667"
+       id="path1382"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399e47;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1396);marker-end:url(#marker1400)"
+       d="M 74.083332,45.645834 V 64.166667"
+       id="path1392"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399e47;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1406);marker-end:url(#marker1410)"
+       d="M 113.77083,45.645834 V 64.166667"
+       id="path1402"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399e47;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1416);marker-end:url(#marker1420)"
+       d="M 156.10416,45.645834 V 64.166667"
+       id="path1412"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="11.296072"
+       y="64.151009"
+       id="text5983-3-0"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-6"
+         x="11.296072"
+         y="64.151009"
+         style="fill:#399e47;fill-opacity:1;stroke-width:0.08205647">Ethernet</tspan></text>
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.70917034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 31.74999,69.458333 H 185.20833"
+       id="path1380-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1459);marker-end:url(#marker1463)"
+       d="m 50.270833,69.458334 v -23.8125"
+       id="path1455"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1469);marker-end:url(#marker1473)"
+       d="m 89.958332,69.458334 v -23.8125"
+       id="path1465"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1479);marker-end:url(#marker1483)"
+       d="m 129.64583,45.645834 v 23.8125"
+       id="path1475"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1489);marker-end:url(#marker1493)"
+       d="m 169.33333,45.645834 v 23.8125"
+       id="path1485"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1499);marker-end:url(#marker1503)"
+       d="M 79.374999,69.458334 V 80.041667"
+       id="path1495"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1509);marker-end:url(#marker1513)"
+       d="M 108.47917,69.458334 V 80.041667"
+       id="path1505"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.16500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1519);marker-end:url(#marker1523)"
+       d="M 137.58333,69.458334 V 80.041667"
+       id="path1515"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#399c9e;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1529);marker-end:url(#marker1533)"
+       d="m 140.22916,135.60417 h 7.9375 V 69.458334"
+       id="path1525"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#399c9e;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="23.164379"
+       y="69.935074"
+       id="text5983-3-0-6"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-6-5"
+         x="23.164379"
+         y="69.935074"
+         style="fill:#399c9e;fill-opacity:1;stroke-width:0.08205647">CAN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.20823479px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20520586"
+       x="155.64781"
+       y="90.285027"
+       id="text5983-3-7-4-4-7-5"
+       transform="scale(0.97131938,1.0295275)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-7-8-9"
+         x="155.64781"
+         y="90.285027"
+         style="stroke-width:0.20520586">°°°</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3055)"
+       d="m 23.8125,12.572916 5.291666,9.260417"
+       id="path3051"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="3.5738957"
+       y="12.523333"
+       id="text5983-3-7-3"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         x="3.5738957"
+         y="12.523333"
+         style="stroke-width:0.08205647"
+         id="tspan3075">Entry point :</tspan><tspan
+         sodipodi:role="line"
+         x="3.5738957"
+         y="16.626156"
+         style="stroke-width:0.08205647"
+         id="tspan3079">USB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="186.13496"
+       y="13.789642"
+       id="text5983-3-7-3-4"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         x="186.13496"
+         y="13.789642"
+         style="stroke-width:0.08205647"
+         id="tspan3075-7">Entry point :</tspan><tspan
+         sodipodi:role="line"
+         x="186.13496"
+         y="17.892466"
+         style="stroke-width:0.08205647"
+         id="tspan3079-9">Wi-Fi</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3106)"
+       d="m 182.5625,13.895833 -7.9375,7.9375"
+       id="path3102"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.28225899px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08205647"
+       x="155.11295"
+       y="149.51268"
+       id="text5983-3-7-3-4-7"
+       transform="scale(0.98727326,1.0128908)"><tspan
+         sodipodi:role="line"
+         x="155.11295"
+         y="149.51268"
+         style="stroke-width:0.08205647"
+         id="tspan3075-7-2">Entry point :</tspan><tspan
+         sodipodi:role="line"
+         x="155.11295"
+         y="153.61551"
+         style="stroke-width:0.08205647"
+         id="tspan3079-9-2">Radio</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3133)"
+       d="m 150.8125,148.83333 -10.58334,-5.29166"
+       id="path3129"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.27152538px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08178813"
+       x="-28.801138"
+       y="22.700373"
+       id="text5983-3-7-3-0"
+       transform="scale(0.96504248,1.0362238)"><tspan
+         sodipodi:role="line"
+         x="-28.801138"
+         y="22.700373"
+         style="stroke-width:0.08178813"
+         id="tspan3079-1">BOF via USB port.</tspan><tspan
+         sodipodi:role="line"
+         x="-28.801138"
+         y="26.78978"
+         style="stroke-width:0.08178813"
+         id="tspan7636">-&gt; gain root access</tspan><tspan
+         sodipodi:role="line"
+         x="-28.801138"
+         y="30.879187"
+         style="stroke-width:0.08178813"
+         id="tspan6918">-&gt;send command to the vehicle </tspan><tspan
+         sodipodi:role="line"
+         x="-28.801138"
+         y="34.968594"
+         style="stroke-width:0.08178813"
+         id="tspan6920">via CAN/Ethernet network.</tspan><tspan
+         sodipodi:role="line"
+         x="-28.801138"
+         y="39.057999"
+         style="stroke-width:0.08178813"
+         id="tspan6924" /><tspan
+         sodipodi:role="line"
+         x="-28.801138"
+         y="43.147408"
+         style="stroke-width:0.08178813"
+         id="tspan7638">Defense : </tspan><tspan
+         sodipodi:role="line"
+         x="-28.801138"
+         y="47.236813"
+         style="stroke-width:0.08178813"
+         id="tspan7640">ASLR, KASLR, KARL, stack canaries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.27152538px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08178812"
+       x="207.13376"
+       y="25.219986"
+       id="text5983-3-7-3-0-5"
+       transform="scale(0.96504249,1.0362238)"><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="25.219986"
+         style="stroke-width:0.08178812"
+         id="tspan3079-1-6">SSH attack. (brute force ssh psswd)</tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="29.309393"
+         style="stroke-width:0.08178812"
+         id="tspan6918-5">-&gt;Send command to the vehicle </tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="33.3988"
+         style="stroke-width:0.08178812"
+         id="tspan6920-0">via CAN/Ethernet network. </tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="37.488205"
+         style="stroke-width:0.08178812"
+         id="tspan6922-0">&gt; Send command to other vehicle </tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="41.577614"
+         style="stroke-width:0.08178812"
+         id="tspan6924-3">via network.</tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="45.667019"
+         style="stroke-width:0.08178812"
+         id="tspan7661" /><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="49.756428"
+         style="stroke-width:0.08178812"
+         id="tspan7663">Defense :</tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="53.845833"
+         style="stroke-width:0.08178812"
+         id="tspan7665">Dynamic network MTD</tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="57.935242"
+         style="stroke-width:0.08178812"
+         id="tspan7667">(usable because it don't interfer with </tspan><tspan
+         sodipodi:role="line"
+         x="207.13376"
+         y="62.024647"
+         style="stroke-width:0.08178812"
+         id="tspan7669">maintenance access)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.27152538px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08178812"
+       x="184.14682"
+       y="151.55432"
+       id="text5983-3-7-3-0-5-4"
+       transform="scale(0.96504249,1.0362238)"><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="151.55432"
+         style="stroke-width:0.08178812"
+         id="tspan3079-1-6-6">radio attack.</tspan><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="155.64372"
+         style="stroke-width:0.08178812"
+         id="tspan6924-3-5">-&gt; spoof the radio communication </tspan><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="159.73314"
+         style="stroke-width:0.08178812"
+         id="tspan7573">    of the TPMS to drain battery, shutdown ECU</tspan><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="163.82254"
+         style="stroke-width:0.08178812"
+         id="tspan7575" /><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="167.91194"
+         style="stroke-width:0.08178812"
+         id="tspan7671">-&gt;it is possible to : </tspan><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="172.00136"
+         style="stroke-width:0.08178812"
+         id="tspan7673">    iddentify and track a vehicle...</tspan><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="176.09076"
+         style="stroke-width:0.08178812"
+         id="tspan7675" /><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="180.18018"
+         style="stroke-width:0.08178812"
+         id="tspan7677">Defense :</tspan><tspan
+         sodipodi:role="line"
+         x="184.14682"
+         y="184.26958"
+         style="stroke-width:0.08178812"
+         id="tspan7679">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.20823479px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20520586"
+       x="182.68307"
+       y="38.219055"
+       id="text5983-3-7-4-4-7-5-8"
+       transform="scale(0.97131937,1.0295275)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-7-8-9-9"
+         x="182.68307"
+         y="38.219055"
+         style="stroke-width:0.20520586">°°°</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.20823479px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20520586"
+       x="154.27609"
+       y="139.91562"
+       id="text5983-3-7-4-4-7-5-5"
+       transform="scale(0.97131937,1.0295275)"><tspan
+         sodipodi:role="line"
+         id="tspan5981-6-5-78-7-8-9-0"
+         x="154.27609"
+         y="139.91562"
+         style="stroke-width:0.20520586">°°°</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.27152538px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08178812"
+       x="-27.11529"
+       y="213.5968"
+       id="text5983-3-7-3-0-6"
+       transform="scale(0.96504249,1.0362238)"><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="213.5968"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan3079-1-0">Scenario 1 : <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan7755">Attack via USB port</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="217.6862"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7640-1" /><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="221.77562"
+         style="stroke-width:0.08178812"
+         id="tspan7737">- get a car into highway</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="225.86502"
+         style="stroke-width:0.08178812"
+         id="tspan7739">- plug the usb</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="229.95442"
+         style="stroke-width:0.08178812"
+         id="tspan7741">- perform a BOF on usb vulnerable driver</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="234.04384"
+         style="stroke-width:0.08178812"
+         id="tspan7743">- get root </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="238.13324"
+         style="stroke-width:0.08178812"
+         id="tspan7747">- send command to the network controller via ethernet or can bus.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="242.22266"
+         style="stroke-width:0.08178812"
+         id="tspan7751">  the command is a message to send to other car around (same constructor,</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="246.31206"
+         style="stroke-width:0.08178812"
+         id="tspan7753">  any car in range...) to tell them to perform a dangerous action. </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="250.40146"
+         style="stroke-width:0.08178812"
+         id="tspan7757">- send command to the network controller to send ransomware to other car around.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="254.49088"
+         style="stroke-width:0.08178812"
+         id="tspan7759" /><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="258.58026"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7761">Scenario 2 : <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan7765">Attack via USB port</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="262.66968"
+         style="stroke-width:0.08178812"
+         id="tspan7763" /><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="266.75909"
+         style="stroke-width:0.08178812"
+         id="tspan7767">- break into a car.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="270.84851"
+         style="stroke-width:0.08178812"
+         id="tspan7769">- start it and plug the usb stick.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="274.9379"
+         style="stroke-width:0.08178812"
+         id="tspan7771">- perform BOF on usb vulnerable driver.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="279.02731"
+         style="stroke-width:0.08178812"
+         id="tspan7773">- get root</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="283.11673"
+         style="stroke-width:0.08178812"
+         id="tspan7775">- install ransomware, tracker, worm, backdoor...</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="287.20612"
+         style="stroke-width:0.08178812"
+         id="tspan7777">- get out of the car</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="291.29553"
+         style="stroke-width:0.08178812"
+         id="tspan7779" /><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="295.38495"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7781">Scenario 3 : <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan7783">Attack via Network</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="299.47433"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7785" /><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="303.56375"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7787">- get a car into highway</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="307.65317"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7789">- scan network to find target in range</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="311.74255"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7791">- try to get acces to it</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="315.83197"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7793">- installransomware, send false messages to other car, send commad to the car to </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="319.92139"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7795">  make it act dangerously.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="324.01077"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7797" /><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="328.10019"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7799">Scenario 4 : <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan7803">Attack via TPMS</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="332.18961"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7801"> </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="336.27899"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7805">-  stand near a turn on car </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="340.36841"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7809">- send an activation signal to the TPMS at 125kHz </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="344.45782"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7807">- listen radio frequencies 315 MHz or 433 MHz to find the answers of the TPMS.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="348.54721"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7811">1 - get the information from the vehicule TPMSs to create a profil of the vehicule and </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="352.63663"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7813">     track it, explode bomb when it pass nearby somewhere or else.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="356.72604"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7815">2 - send false informations to the vehicule to make it stop or something.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="360.81543"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7817">3 - perform DOS on multiple ECU by continously spoof TPMS package.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="364.90485"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7819">4 - get all of that but near a turned off car, send contuniously activation signal for the</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="368.99426"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7821">     TPMS and drained the car battey.</tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="373.08368"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8310">5- send continiously packet and try to crash the TPMS ECU, the driver will be forced to </tspan><tspan
+         sodipodi:role="line"
+         x="-27.11529"
+         y="377.17307"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8312">    visit a garage.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -29.860114,202.50595 H 261.18155"
+       id="path7823"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.27152538px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08178812"
+       x="119.23028"
+       y="213.49516"
+       id="text5983-3-7-3-0-6-8"
+       transform="scale(0.96504249,1.0362238)"><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="213.49516"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan3079-1-0-8">defense against Scenario 1 : <tspan
+   style="font-style:italic;font-weight:bold;stroke-width:0.08178812"
+   id="tspan7755-4">Attack via USB port</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="217.58456"
+         style="stroke-width:0.08178812"
+         id="tspan7759-8" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="221.67398"
+         style="stroke-width:0.08178812"
+         id="tspan8127">-&gt; enable some stack canaries to harden BOF</tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="225.76338"
+         style="stroke-width:0.08178812"
+         id="tspan8145">-&gt; enable ASLR to make BOF harder</tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="229.85278"
+         style="stroke-width:0.08178812"
+         id="tspan8147">-&gt; Enable KASLR and KARL to re organize the kernel layout and disperce it into the </tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="233.9422"
+         style="stroke-width:0.08178812"
+         id="tspan8149">     memory </tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="238.0316"
+         style="stroke-width:0.08178812"
+         id="tspan8129" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="242.12102"
+         style="stroke-width:0.08178812"
+         id="tspan8131" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="246.21042"
+         style="stroke-width:0.08178812"
+         id="tspan8141" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="250.29982"
+         style="stroke-width:0.08178812"
+         id="tspan8159" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="254.38924"
+         style="stroke-width:0.08178812"
+         id="tspan8143" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="258.47864"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7761-7">defense against Scenario 2 : <tspan
+   style="font-style:italic;font-weight:bold;stroke-width:0.08178812"
+   id="tspan7765-5">Attack via USB port</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="262.56805"
+         style="stroke-width:0.08178812"
+         id="tspan7763-2" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="266.65744"
+         style="stroke-width:0.08178812"
+         id="tspan7779-2">-&gt; same as scenario 1</tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="270.74686"
+         style="stroke-width:0.08178812"
+         id="tspan8188" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="274.83627"
+         style="stroke-width:0.08178812"
+         id="tspan8190" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="278.92566"
+         style="stroke-width:0.08178812"
+         id="tspan8192" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="283.01508"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7781-7" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="287.10449"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan8198" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="291.19388"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan8201" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="295.28329"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan8204">defense against Scenario 3 : <tspan
+   style="font-style:italic;font-weight:bold;stroke-width:0.08178812"
+   id="tspan7783-2">Attack via Network</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="299.37271"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7785-1" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="303.4621"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7797-9">-&gt; enable dynamic network mtd in order to make the vehicle not discoverble so it will </tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="307.55151"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8231">     not be possible to launch the attack.</tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="311.64093"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8233">     --&gt; don't make problem with maintenance because it is just on the outside of car, </tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="315.73032"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8235">           the physical internal open ports will remains the same.</tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="319.81973"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8227">-&gt; enable dynamic platform MTD, so the application will not be always on the same </tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="323.90915"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8281">     place. harden to find what we want.</tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="327.99857"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8229" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="332.08795"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7799-5">Scenario 4 : <tspan
+   style="font-style:italic;font-weight:bold;stroke-width:0.08178812"
+   id="tspan7803-7">Attack via TPMS</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="336.17737"
+         style="font-style:italic;stroke-width:0.08178812"
+         id="tspan7801-4"> </tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="340.26678"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan7821-2">Don't know how to stop it with MTD..</tspan><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="344.35617"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8283" /><tspan
+         sodipodi:role="line"
+         x="119.23028"
+         y="348.44559"
+         style="font-style:normal;stroke-width:0.08178812"
+         id="tspan8285">-&gt; enable authentification on packet sent.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="177.27084"
+       y="424"
+       id="text8289"><tspan
+         sodipodi:role="line"
+         id="tspan8287"
+         x="177.27084"
+         y="426.90402"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="181.2634"
+       y="173.23578"
+       id="text8356"><tspan
+         sodipodi:role="line"
+         id="tspan8354"
+         x="181.2634"
+         y="176.1398"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>

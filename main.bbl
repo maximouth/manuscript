@@ -1,0 +1,2234 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{noauthor_karl_nodate}{misc}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labeltitlesource}{title}
+      \field{title}{'{KARL} - kernel address randomized link' - {MARC}}
+      \verb{file}
+      \verb 'KARL - kernel address randomized link' - MARC:/home/myself/Zotero/storage/BGR75WBR/marc.info.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://marc.info/?l=openbsd-tech&m=149732026405941
+      \endverb
+      \verb{url}
+      \verb https://marc.info/?l=openbsd-tech&m=149732026405941
+      \endverb
+    \endentry
+    \entry{karl}{misc}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labeltitlesource}{title}
+      \field{title}{'{KARL} - kernel address randomized link' - {MARC}}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb 'KARL - kernel address randomized link' - MARC:/home/maximouth/Zotero/storage/BGR75WBR/marc.info.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://marc.info/?l=openbsd-tech&m=149732026405941
+      \endverb
+      \verb{url}
+      \verb https://marc.info/?l=openbsd-tech&m=149732026405941
+      \endverb
+    \endentry
+    \entry{rekarl}{misc}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labeltitlesource}{title}
+      \field{title}{'{Re}: {KARL} - kernel address randomized link' - {MARC}}
+      \field{urlday}{31}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb 'Re\: KARL - kernel address randomized link' - MARC:/home/maximouth/Zotero/storage/2ZWGLLCR/marc.info.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://marc.info/?l=openbsd-tech&m=149732265506347&w=2
+      \endverb
+      \verb{url}
+      \verb https://marc.info/?l=openbsd-tech&m=149732265506347&w=2
+      \endverb
+    \endentry
+    \entry{Nas2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=88ae841afc9ac7ca55562ddf02acbab7}{%
+           family={Ahmad\bibnamedelimb MK\bibnamedelima Nasser},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Di\bibnamedelima Ma},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2e2590c07d0be64ac6e84ca371ab2be9}{%
+           family={Muralidharan},
+           familyi={M\bibinitperiod},
+           given={Priya},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4ae48a05c399f8d9ace01dd69f3e0f9}
+      \strng{fullhash}{b4ae48a05c399f8d9ace01dd69f3e0f9}
+      \strng{bibnamehash}{b4ae48a05c399f8d9ace01dd69f3e0f9}
+      \strng{authorbibnamehash}{b4ae48a05c399f8d9ace01dd69f3e0f9}
+      \strng{authornamehash}{b4ae48a05c399f8d9ace01dd69f3e0f9}
+      \strng{authorfullhash}{b4ae48a05c399f8d9ace01dd69f3e0f9}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cyber Security}
+      \field{title}{An Approach for Building Security Resilience in AUTOSAR Based Safety Critical Systems}
+      \field{volume}{Vol. 6 3}
+      \field{year}{2017}
+      \field{pages}{271\bibrangedash 304}
+      \range{pages}{34}
+    \endentry
+    \entry{antonatos_2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=27af9e08917602f39d0cc9e6855b72fe}{%
+           family={Antonatos},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aa00188e624ae53b54f0ec11e2b6764f}{%
+           family={Akritidis},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=90781bf7fd5578d9e449416e428616ad}{%
+           family={Markatos},
+           familyi={M\bibinitperiod},
+           given={E.P.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ea1d0c7b1fab5fcb1e99fe75ad37beef}{%
+           family={Anagnostakis},
+           familyi={A\bibinitperiod},
+           given={K.G.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6ff7376c2b8bb1aaa839af37e07bcacf}
+      \strng{fullhash}{d3bc1c599e82363fbbd0bd59d7cc2480}
+      \strng{bibnamehash}{6ff7376c2b8bb1aaa839af37e07bcacf}
+      \strng{authorbibnamehash}{6ff7376c2b8bb1aaa839af37e07bcacf}
+      \strng{authornamehash}{6ff7376c2b8bb1aaa839af37e07bcacf}
+      \strng{authorfullhash}{d3bc1c599e82363fbbd0bd59d7cc2480}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Worms are self-replicating malicious programs that represent a major security threat for the Internet, as they can infect and damage a large number of vulnerable hosts at timescales where human responses are unlikely to be eﬀective. Sophisticated worms that use precomputed hitlists of vulnerable targets are especially hard to contain, since they are harder to detect, and spread at rates where even automated defenses may not be able to react in a timely fashion.}
+      \field{issn}{13891286}
+      \field{journaltitle}{Computer Networks}
+      \field{month}{8}
+      \field{number}{12}
+      \field{title}{Defending against hitlist worms using network address space randomization}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{51}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{3471\bibrangedash 3490}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.comnet.2007.02.006
+      \endverb
+      \verb{file}
+      \verb Antonatos et al. - 2007 - Defending against hitlist worms using network addr.pdf:/home/myself/Zotero/storage/EN6QSPW9/Antonatos et al. - 2007 - Defending against hitlist worms using network addr.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1389128607000710
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1389128607000710
+      \endverb
+    \endentry
+    \entry{AUTOSAR_archi}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8523186f8b1cb5139be1782e8b34255a}{%
+           family={AUTOSAR},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{fullhash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{bibnamehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{authorbibnamehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{authornamehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{authorfullhash}{8523186f8b1cb5139be1782e8b34255a}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Layered Software Architecture}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.autosar.org/fileadmin/user_upload/standards/classic/20-11/AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.autosar.org/fileadmin/user_upload/standards/classic/20-11/AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf
+      \endverb
+    \endentry
+    \entry{AUTOSAR}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8523186f8b1cb5139be1782e8b34255a}{%
+           family={AUTOSAR},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{fullhash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{bibnamehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{authorbibnamehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{authornamehash}{8523186f8b1cb5139be1782e8b34255a}
+      \strng{authorfullhash}{8523186f8b1cb5139be1782e8b34255a}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Platform solutions}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb http://www.autosar.org/standards
+      \endverb
+      \verb{url}
+      \verb http://www.autosar.org/standards
+      \endverb
+    \endentry
+    \entry{ayrault_run_2019}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=aad5809237732eb19fb52634f010136a}{%
+           family={Ayrault},
+           familyi={A\bibinitperiod},
+           given={Maxime},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8591678c7afade51d182dd3d91e654e0}{%
+           family={Borde},
+           familyi={B\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod}}}%
+        {{hash=51f3477b777b76a264edfa50a40878b4}{%
+           family={Kühne},
+           familyi={K\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {London, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{9e407e1f3d7aef01bcc6ea481614739c}
+      \strng{fullhash}{9e407e1f3d7aef01bcc6ea481614739c}
+      \strng{bibnamehash}{9e407e1f3d7aef01bcc6ea481614739c}
+      \strng{authorbibnamehash}{9e407e1f3d7aef01bcc6ea481614739c}
+      \strng{authornamehash}{9e407e1f3d7aef01bcc6ea481614739c}
+      \strng{authorfullhash}{9e407e1f3d7aef01bcc6ea481614739c}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{An increasing number of devices of our everyday life are referred to as connected objects. Most of them need an Internet connection, and are thus provided with a public IP address. With these IP addresses come new security threats as attackers may attempt to attack a whole family of objects. This problem becomes even more worrying when considering safety critical objects (i.e. their failures can have catastrophic consequences). In this paper we propose a Moving Target Defense (MTD) technique at the network level, that consists in reassigning objects’ IP addresses in order to escape from attackers both outside or inside the object’s subnetwork. We propose different variants of this defense allowing for a trade-off between (i) increasing the security level, and (ii) lowering the network load overhead due to the defense. As opposed to existing works, we also define a method to maintain the objects’ connectivity while reassigning IP addresses. A motivating example from the automotive domain is used to illustrate the applicability of this work.}
+      \field{booktitle}{Proceedings of the 6th {ACM} {Workshop} on {Moving} {Target} {Defense} - {MTD}'19}
+      \field{isbn}{978-1-4503-6828-5}
+      \field{shorttitle}{Run or {Hide}?}
+      \field{title}{Run or {Hide}? {Both}! A {Method} {Based} on {IPv}6 {Address} {Switching} to {Escape} {While} {Being} {Hidden}}
+      \field{urlday}{19}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{47\bibrangedash 56}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3338468.3356827
+      \endverb
+      \verb{file}
+      \verb Ayrault et al. - 2019 - Run or Hide Both! A Method Based on IPv6 Address .pdf:/home/myself/Zotero/storage/SYQEVBZ4/Ayrault et al. - 2019 - Run or Hide Both! A Method Based on IPv6 Address .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=3338468.3356827
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=3338468.3356827
+      \endverb
+    \endentry
+    \entry{cai_moving_2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=911e40c899561159fc8fd94b64f2913d}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Gui-lin},
+           giveni={G\bibinithyphendelim l\bibinitperiod}}}%
+        {{hash=becd32cdde157e2c1380e8778eb7bb73}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bao-sheng},
+           giveni={B\bibinithyphendelim s\bibinitperiod}}}%
+        {{hash=0b61e9661067d0a906cff8be51415c72}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1615b030e1972c1a470fefc74678b0ff}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tian-zuo},
+           giveni={T\bibinithyphendelim z\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5f9685f27e0b017a46cb1dfcd3872b54}
+      \strng{fullhash}{f0a66e0a468411630d976e1bbe0c595e}
+      \strng{bibnamehash}{5f9685f27e0b017a46cb1dfcd3872b54}
+      \strng{authorbibnamehash}{5f9685f27e0b017a46cb1dfcd3872b54}
+      \strng{authornamehash}{5f9685f27e0b017a46cb1dfcd3872b54}
+      \strng{authorfullhash}{f0a66e0a468411630d976e1bbe0c595e}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Moving target defense (MTD) has emerged as one of the game-changing themes to alter the asymmetric situation between attacks and defenses in cyber-security. Numerous related works involving several facets of MTD have been published. However, comprehensive analyses and research on MTD are still absent. In this paper, we present a survey on MTD technologies to scientiﬁcally and systematically introduce, categorize, and summarize the existing research works in this ﬁeld. First, a new security model is introduced to describe the changes in the traditional defense paradigm and security model caused by the introduction of MTD. A function-and-movement model is provided to give a panoramic overview on diﬀerent perspectives for understanding the existing MTD research works. Then a systematic interpretation of published literature is presented to describe the state of the art of the three main areas in the MTD ﬁeld, namely, MTD theory, MTD strategy, and MTD evaluation. Speciﬁcally, in the area of MTD strategy, the common characteristics shared by the MTD strategies to improve system security and eﬀectiveness are identiﬁed and extrapolated. Thereafter, the methods to implement these characteristics are concluded. Moreover, the MTD strategies are classiﬁed into three types according to their speciﬁc goals, and the necessary and suﬃcient conditions of each type to create eﬀective MTD strategies are then summarized, which are typically one or more of the aforementioned characteristics. Finally, we provide a number of observations for the future direction in this ﬁeld, which can be helpful for subsequent researchers.}
+      \field{journaltitle}{Frontiers of Information Technology \& Electronic Engineering}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shorttitle}{Moving target defense}
+      \field{title}{Moving target defense: state of the art and characteristics}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{1122\bibrangedash 1153}
+      \range{pages}{32}
+      \verb{file}
+      \verb Cai et al. - 2016 - Moving target defense state of the art and charac.pdf:/home/myself/Zotero/storage/9WT3THQD/Cai et al. - 2016 - Moving target defense state of the art and charac.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1631/FITEE.1601321
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1631/FITEE.1601321
+      \endverb
+    \endentry
+    \entry{carroll_2014}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=2300b7a82e6cbf8dadc27c41ac43eec2}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3ad1788cfaa0cba6344349cff64201e4}{%
+           family={Crouse},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=85f9a0a9fa9504b3c568bfb9cc5caeae}{%
+           family={Fulp},
+           familyi={F\bibinitperiod},
+           given={Errin\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=1dca7904b7faa8151cd373a30554d929}{%
+           family={Berenhaut},
+           familyi={B\bibinitperiod},
+           given={Kenneth\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Sydney, NSW}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{fullhash}{42191beca62b774b864b5667ec13449d}
+      \strng{bibnamehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{authorbibnamehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{authornamehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{authorfullhash}{42191beca62b774b864b5667ec13449d}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Address shufﬂing is a type of moving target defense that prevents an attacker from reliably contacting a system by periodically remapping network addresses. Although limited testing has demonstrated it to be effective, little research has been conducted to examine the theoretical limits of address shufﬂing. As a result, it is difﬁcult to understand how effective shufﬂing is and under what circumstances it is a viable moving target defense.}
+      \field{booktitle}{2014 {IEEE} {International} {Conference} on {Communications} ({ICC})}
+      \field{isbn}{978-1-4799-2003-7}
+      \field{month}{6}
+      \field{title}{Analysis of network address shuffling as a moving target defense}
+      \field{urlday}{29}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{701\bibrangedash 706}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICC.2014.6883401
+      \endverb
+      \verb{file}
+      \verb Carroll et al. - 2014 - Analysis of network address shuffling as a moving .pdf:/home/maximouth/Downloads/Carroll et al. - 2014 - Analysis of network address shuffling as a moving .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6883401/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6883401/
+      \endverb
+    \endentry
+    \entry{carroll_analysis_2014}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=2300b7a82e6cbf8dadc27c41ac43eec2}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3ad1788cfaa0cba6344349cff64201e4}{%
+           family={Crouse},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=85f9a0a9fa9504b3c568bfb9cc5caeae}{%
+           family={Fulp},
+           familyi={F\bibinitperiod},
+           given={Errin\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=1dca7904b7faa8151cd373a30554d929}{%
+           family={Berenhaut},
+           familyi={B\bibinitperiod},
+           given={Kenneth\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sydney, {NSW}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{fullhash}{42191beca62b774b864b5667ec13449d}
+      \strng{bibnamehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{authorbibnamehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{authornamehash}{c9fe6810fa8a0c93ff5c220526f9a064}
+      \strng{authorfullhash}{42191beca62b774b864b5667ec13449d}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Address shufﬂing is a type of moving target defense that prevents an attacker from reliably contacting a system by periodically remapping network addresses. Although limited testing has demonstrated it to be effective, little research has been conducted to examine the theoretical limits of address shufﬂing. As a result, it is difﬁcult to understand how effective shufﬂing is and under what circumstances it is a viable moving target defense.}
+      \field{booktitle}{2014 {IEEE} International Conference on Communications ({ICC})}
+      \field{eventtitle}{{ICC} 2014 - 2014 {IEEE} International Conference on Communications}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Analysis of network address shuffling as a moving target defense}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{701\bibrangedash 706}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6883401/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6883401/
+      \endverb
+    \endentry
+    \entry{Cha2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=38b277911167730120fe8d4e97a27687}{%
+           family={Charette},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{38b277911167730120fe8d4e97a27687}
+      \strng{fullhash}{38b277911167730120fe8d4e97a27687}
+      \strng{bibnamehash}{38b277911167730120fe8d4e97a27687}
+      \strng{authorbibnamehash}{38b277911167730120fe8d4e97a27687}
+      \strng{authornamehash}{38b277911167730120fe8d4e97a27687}
+      \strng{authorfullhash}{38b277911167730120fe8d4e97a27687}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Specturm}
+      \field{title}{This car runs on code}
+      \field{volume}{7649}
+      \field{year}{2009}
+    \endentry
+    \entry{clark_2013}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=ab499592a3c1afdc3e7bbebe13418638}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e623a43485e2e59ba47d113f1656ce81}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9ccc1ec0ddc12e61f21861aafacf75d1}{%
+           family={Poovendran},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec47c91356c52f346ba4ae36685c573c}
+      \strng{fullhash}{ec47c91356c52f346ba4ae36685c573c}
+      \strng{bibnamehash}{ec47c91356c52f346ba4ae36685c573c}
+      \strng{authorbibnamehash}{ec47c91356c52f346ba4ae36685c573c}
+      \strng{authornamehash}{ec47c91356c52f346ba4ae36685c573c}
+      \strng{authorfullhash}{ec47c91356c52f346ba4ae36685c573c}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In a decoy-based moving target defense (MTD), a computer network introduces a large number of virtual decoy nodes in order to prevent the adversary from locating and targeting real nodes. Since the decoys can eventually be identified and their Internet Protocol (IP) addresses blacklisted by the adversary, current MTD approaches suggest that the IP addresses of the real and decoy nodes should be randomly refreshed and reassigned over time. Refreshing and reassigning the IP addresses, however, disrupts services such as TCP/IP that rely on the IP address. We introduce an analytical approach to MTD and choosing the optimal randomization policy in order to minimize disruptions to system performance. Our approach consists of two components. First, we model the interaction between the adversary and a virtual node as a sequential detection process, in which the adversary attempts to determine whether the node is real or a decoy in the minimum possible time. We compute the optimal strategy for the adversary to decide whether the node is real or a decoy, and derive closed-form expressions for the expected time to identify the real node using this strategy. Second, we formulate the problem of deciding when to randomize the IP addresses, based on a trade-off between reducing the probability of detecting the real node and minimizing the disruption to network services, as an optimal stopping problem. We derive the optimal randomization policy for the network and analyze the detection probability, expected number of connections lost due to IP randomization, and expected time between randomizations under the proposed policy. Our results are illustrated via a simulation study using real-world data from NMAP, a software tool used to identify decoy nodes. Our simulation study indicates that our IP randomization policy reduces the probability of detection while minimizing the number of connections that are disrupted by the randomization.}
+      \field{booktitle}{52nd {IEEE} {Conference} on {Decision} and {Control}}
+      \field{month}{12}
+      \field{title}{Effectiveness of {IP} address randomization in decoy-based moving target defense}
+      \field{year}{2013}
+      \field{pages}{678\bibrangedash 685}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/CDC.2013.6759960
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/maximouth/Zotero/storage/APIEXXMA/6759960.html:text/html;IEEE Xplore Full Text PDF:/home/maximouth/Zotero/storage/9IWXDJGM/Clark et al. - 2013 - Effectiveness of IP address randomization in decoy.pdf:application/pdf
+      \endverb
+      \keyw{closed form expression,computer network security,decoy based moving target defense,decoy node identification,Internet protocol addresses,IP address randomization,IP networks,Monitoring,network services disruption,NMAP software tool,optimal randomization policy,optimal stopping problem,Protocols,sequential detection process,Time factors,virtual decoy nodes,Virtual machine monitors,Virtual machining,virtual node}
+    \endentry
+    \entry{conitzer_computing_2006}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=81da09aaa261f0e4e292e8d16cb4c006}{%
+           family={Conitzer},
+           familyi={C\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2b2efc94764fb1efb99722a67e32c4da}{%
+           family={Sandholm},
+           familyi={S\bibinitperiod},
+           given={Tuomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3a05b089f321dbb7c81d4d7145088da2}
+      \strng{fullhash}{3a05b089f321dbb7c81d4d7145088da2}
+      \strng{bibnamehash}{3a05b089f321dbb7c81d4d7145088da2}
+      \strng{authorbibnamehash}{3a05b089f321dbb7c81d4d7145088da2}
+      \strng{authornamehash}{3a05b089f321dbb7c81d4d7145088da2}
+      \strng{authorfullhash}{3a05b089f321dbb7c81d4d7145088da2}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In multiagent systems, strategic settings are often analyzed under the assumption that the players choose their strategies simultaneously. However, this model is not always realistic. In many settings, one player is able to commit to a strategy before the other player makes a decision. Such models are synonymously referred to as leadership, commitment, or Stackelberg models, and optimal play in such models is often significantly different from optimal play in the model where strategies are selected simultaneously.The recent surge in interest in computing game-theoretic solutions has so far ignored leadership models (with the exception of the interest in mechanism design, where the designer is implicitly in a leadership position). In this paper, we study how to compute optimal strategies to commit to under both commitment to pure strategies and commitment to mixed strategies, in both normal-form and Bayesian games. We give both positive results (efficient algorithms) and negative results (NP-hardness results).}
+      \field{booktitle}{Proceedings of the 7th {ACM} conference on {Electronic} commerce}
+      \field{month}{6}
+      \field{series}{{EC} '06}
+      \field{title}{Computing the optimal strategy to commit to}
+      \field{year}{2006}
+      \field{pages}{82\bibrangedash 90}
+      \range{pages}{9}
+      \verb{file}
+      \verb Full Text:/home/ukuhne/.mozilla/firefox/nhmrjijj.default/zotero/storage/ADS6KCKU/Conitzer and Sandholm - 2006 - Computing the optimal strategy to commit to.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1134707.1134717
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1134707.1134717
+      \endverb
+      \keyw{bayesian games,commitment,game theory,leadership,nash equilibrium,normalform games,stackelberg}
+    \endentry
+    \entry{daniel_2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=262031397020fd8df478ec13b4b096c5}{%
+           family={{Daniel}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{262031397020fd8df478ec13b4b096c5}
+      \strng{fullhash}{262031397020fd8df478ec13b4b096c5}
+      \strng{bibnamehash}{262031397020fd8df478ec13b4b096c5}
+      \strng{authorbibnamehash}{262031397020fd8df478ec13b4b096c5}
+      \strng{authornamehash}{262031397020fd8df478ec13b4b096c5}
+      \strng{authorfullhash}{262031397020fd8df478ec13b4b096c5}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Following the release of the Linux Kernel 4.12, which for the first time brings the KASLR feature enabled by default, and almost simultaneously the announcement of a feature called KARL in OpenBSD, I found it interesting to clarify the differences between these security techniques, since I think that the combination of both will be very}
+      \field{journaltitle}{daniloaz.com}
+      \field{month}{7}
+      \field{title}{Differences between {ASLR}, {KASLR} and {KARL}}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maximouth/Zotero/storage/XZZG6KFS/differences-between-aslr-kaslr-and-karl.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.daniloaz.com/en/differences-between-aslr-kaslr-and-karl/
+      \endverb
+      \verb{url}
+      \verb http://www.daniloaz.com/en/differences-between-aslr-kaslr-and-karl/
+      \endverb
+    \endentry
+    \entry{feng_stackelberg_2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c72c38695ceb77d4aa5816607461ae94}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Xiaotao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=838b4de53596d86a0bbac2594a995001}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Zizhan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1ae3717ddd3f402c25137b35fa21a742}{%
+           family={Mohapatra},
+           familyi={M\bibinitperiod},
+           given={Prasant},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c69ebd7c09279cdbbbe8cc3ed65b996f}{%
+           family={Cansever},
+           familyi={C\bibinitperiod},
+           given={Derya},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=7ade9571ddc325c9e91a298e25a2680a}{%
+           family={Rass},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=96a30a4deee57f534cac5fa8cea3ae4f}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5ddc0001689d992f6e056342449b3332}{%
+           family={Kiekintveld},
+           familyi={K\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=50229c3fdb5e7f30b2bd918528bdc0df}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dac8fbd7add6dad73e9e60ba74080257}{%
+           family={Schauer},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{787cb80586cf3faa3f1dc340bd01224d}
+      \strng{fullhash}{57e26a64472fd70744d44902d4cfc005}
+      \strng{bibnamehash}{787cb80586cf3faa3f1dc340bd01224d}
+      \strng{authorbibnamehash}{787cb80586cf3faa3f1dc340bd01224d}
+      \strng{authornamehash}{787cb80586cf3faa3f1dc340bd01224d}
+      \strng{authorfullhash}{57e26a64472fd70744d44902d4cfc005}
+      \strng{editorbibnamehash}{b80fab0a342895950a50b04e69b98300}
+      \strng{editornamehash}{b80fab0a342895950a50b04e69b98300}
+      \strng{editorfullhash}{aba3c2e702a20f24cbbf48f9df038df9}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We propose a Stackelberg game model for Moving Target Defense ({MTD}) where the defender periodically switches the state of a security sensitive resource to make it difficult for the attacker to identify the real configurations of the resource. Our model can incorporate various information structures. In this work, we focus on the worst-case scenario from the defender's perspective where the attacker can observe the previous configurations used by the defender. This is a reasonable assumption especially when the attacker is sophisticated and persistent. By formulating the defender's problem as a Markov Decision Process ({MDP}), we prove that the optimal switching strategy has a simple structure and derive an efficient value iteration algorithm to solve the {MDP}. We further study the case where the set of feasible switches can be modeled as a regular graph, where we solve the optimal strategy in an explicit way and derive various insights about how the node degree, graph size, and switching cost affect the {MTD} strategy. These observations are further verified on random graphs empirically.}
+      \field{booktitle}{Decision and Game Theory for Security}
+      \field{isbn}{978-3-319-68711-7}
+      \field{title}{A Stackelberg Game and Markov Modeling of Moving Target Defense}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{315\bibrangedash 335}
+      \range{pages}{21}
+    \endentry
+    \entry{CVSS}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=903342101bef8a9f720163a1ced3aa8f}{%
+           family={FIRST.Org},
+           familyi={F\bibinitperiod},
+           given={Inc},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{903342101bef8a9f720163a1ced3aa8f}
+      \strng{fullhash}{903342101bef8a9f720163a1ced3aa8f}
+      \strng{bibnamehash}{903342101bef8a9f720163a1ced3aa8f}
+      \strng{authorbibnamehash}{903342101bef8a9f720163a1ced3aa8f}
+      \strng{authornamehash}{903342101bef8a9f720163a1ced3aa8f}
+      \strng{authorfullhash}{903342101bef8a9f720163a1ced3aa8f}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Common Vulnerability Scoring System v3.0: Specification Documen}
+      \verb{urlraw}
+      \verb https://www.first.org/cvss/cvss-v30-specification-v1.7.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.first.org/cvss/cvss-v30-specification-v1.7.pdf
+      \endverb
+    \endentry
+    \entry{fraunholz_catch_2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=d79325aedcdb6c07258e5ce837b263bb}{%
+           family={Fraunholz},
+           familyi={F\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6ef358046701b747c4ad5ed1c1476960}{%
+           family={Krohmer},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=04adc8812756c9834956f80487675a7d}{%
+           family={Duque\bibnamedelima Anton},
+           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=983863f0bb6472d4268feee814fb149a}{%
+           family={Schotten},
+           familyi={S\bibinitperiod},
+           given={Hans\bibnamedelima Dieter},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Toronto, Canada}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{2b7d83c9203cf1e8865b381321b36a24}
+      \strng{fullhash}{e0414e18f6c1a7a9da2d0c8fc6cf629d}
+      \strng{bibnamehash}{2b7d83c9203cf1e8865b381321b36a24}
+      \strng{authorbibnamehash}{2b7d83c9203cf1e8865b381321b36a24}
+      \strng{authornamehash}{2b7d83c9203cf1e8865b381321b36a24}
+      \strng{authorfullhash}{e0414e18f6c1a7a9da2d0c8fc6cf629d}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this paper, a framework for Moving Target Defense is introduced. This framework bases on three pillars: network address mutation, communication stack randomization and the dynamic deployment of decoys. The network address mutation is based on the concept of domain generation algorithms, where different features are included to fulfill the system requirements. Those requirements are time dependency, unpredictability and determinism. Communication stack randomization is applied additionally to increase the complexity of reconnaissance activity. By employing communication stack randomization, previously fingerprinted systems do not only differ in the network address but also in their communication pattern behavior. And finally, decoys are integrated into the proposed framework to detect attackers that have breached the perimeter. Furthermore, attacker’s resources can be bound by interacting with the decoy systems. Additionally, the framework can be extended with more advanced Moving Target Defense methods such as obscuring port numbers of services.}
+      \field{booktitle}{Proceedings of the 5th {ACM} {Workshop} on {Moving} {Target} {Defense} - {MTD} '18}
+      \field{isbn}{978-1-4503-6003-6}
+      \field{shorttitle}{Catch {Me} {If} {You} {Can}}
+      \field{title}{Catch {Me} {If} {You} {Can}: {Dynamic} {Concealment} of {Network} {Entities}}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{31\bibrangedash 39}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3268966.3268970
+      \endverb
+      \verb{file}
+      \verb Fraunholz et al. - 2018 - Catch Me If You Can Dynamic Concealment of Networ.pdf:/home/myself/Zotero/storage/PFEAS7W6/Fraunholz et al. - 2018 - Catch Me If You Can Dynamic Concealment of Networ.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=3268966.3268970
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=3268966.3268970
+      \endverb
+    \endentry
+    \entry{harsanyi_generalized_1972}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1839952f92fe19272cf686c16ace03de}{%
+           family={Harsanyi},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d6043d012f8e6db1217980fabd1fd688}{%
+           family={Selten},
+           familyi={S\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c7054dc67f6a88d7d4c4124c67139eb}
+      \strng{fullhash}{6c7054dc67f6a88d7d4c4124c67139eb}
+      \strng{bibnamehash}{6c7054dc67f6a88d7d4c4124c67139eb}
+      \strng{authorbibnamehash}{6c7054dc67f6a88d7d4c4124c67139eb}
+      \strng{authornamehash}{6c7054dc67f6a88d7d4c4124c67139eb}
+      \strng{authorfullhash}{6c7054dc67f6a88d7d4c4124c67139eb}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-1909, 1526-5501}
+      \field{journaltitle}{Management Science}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{5}
+      \field{shortjournal}{Management Science}
+      \field{title}{A Generalized Nash Solution for Two-Person Bargaining Games with Incomplete Information}
+      \field{volume}{18}
+      \field{year}{1972}
+      \field{dateera}{ce}
+      \field{pages}{80\bibrangedash 106}
+      \range{pages}{27}
+      \verb{file}
+      \verb Harsanyi and Selten - 1972 - A Generalized Nash Solution for Two-Person Bargain.pdf:/home/myself/Zotero/storage/DZIDBQ8J/Harsanyi and Selten - 1972 - A Generalized Nash Solution for Two-Person Bargain.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://pubsonline.informs.org/doi/abs/10.1287/mnsc.18.5.80
+      \endverb
+      \verb{url}
+      \verb http://pubsonline.informs.org/doi/abs/10.1287/mnsc.18.5.80
+      \endverb
+    \endentry
+    \entry{hong_assessing_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a260d9c7e68da3af3824071ba64c34f5}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Jin\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=66e3a33489ad38bda238b77cd1a0ad42}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Dong\bibnamedelima Seong},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c739dc5e28648db0c69e2c3c8c8ee8d0}
+      \strng{fullhash}{c739dc5e28648db0c69e2c3c8c8ee8d0}
+      \strng{bibnamehash}{c739dc5e28648db0c69e2c3c8c8ee8d0}
+      \strng{authorbibnamehash}{c739dc5e28648db0c69e2c3c8c8ee8d0}
+      \strng{authornamehash}{c739dc5e28648db0c69e2c3c8c8ee8d0}
+      \strng{authorfullhash}{c739dc5e28648db0c69e2c3c8c8ee8d0}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cyber crime is a developing concern, where criminals are targeting valuable assets and critical infrastructures within networked systems, causing a severe socio-economic impact on enterprises and individuals. Adopting moving target defense ({MTD}) helps thwart cyber attacks by continuously changing the attack surface. There are numerous {MTD} techniques proposed in various domains (e.g., virtualized network, wireless sensor network), but there is still a lack of methods to assess and compare the effectiveness of them. Security models, such as an attack graph ({AG}), provide a formal method of analyzing the security, but incorporating {MTD} techniques in those security models has not been studied. In this paper, we incorporate {MTD} techniques into a security model, namely a hierarchical attack representation model ({HARM}), to assess the effectiveness of them. In addition, we use importance measures ({IMs}) for deploying {MTD} techniques to enhance the scalability. Finally, we compare the scalability of {AG} and {HARM} when deploying {MTD} techniques, as well as changes in performance and security in our experiments.}
+      \field{day}{1}
+      \field{journaltitle}{{IEEE} Transactions on Dependable and Secure Computing}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{{IEEE} Trans. Dependable and Secure Comput.}
+      \field{title}{Assessing the Effectiveness of Moving Target Defenses Using Security Models}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{163\bibrangedash 177}
+      \range{pages}{15}
+      \verb{file}
+      \verb Hong and Kim - 2016 - Assessing the Effectiveness of Moving Target Defen.pdf:/home/myself/Zotero/storage/LJIFDDZ9/Hong and Kim - 2016 - Assessing the Effectiveness of Moving Target Defen.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{hund_return-oriented_nodate}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9dda6403b2d0657c11895a30f6994807}{%
+           family={Hund},
+           familyi={H\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6e1ecd611c7129ad7a6eb6a9a98f11f6}{%
+           family={Holz},
+           familyi={H\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9b7282fcce4019ce71464cb51c1d5080}{%
+           family={Freiling},
+           familyi={F\bibinitperiod},
+           given={Felix\bibnamedelima C},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc428422c4ceb868e1c729b06b0ecbf8}
+      \strng{fullhash}{bc428422c4ceb868e1c729b06b0ecbf8}
+      \strng{bibnamehash}{bc428422c4ceb868e1c729b06b0ecbf8}
+      \strng{authorbibnamehash}{bc428422c4ceb868e1c729b06b0ecbf8}
+      \strng{authornamehash}{bc428422c4ceb868e1c729b06b0ecbf8}
+      \strng{authorfullhash}{bc428422c4ceb868e1c729b06b0ecbf8}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Protecting the kernel of an operating system against attacks, especially injection of malicious code, is an important factor for implementing secure operating systems. Several kernel integrity protection mechanism were proposed recently that all have a particular shortcoming: They cannot protect against attacks in which the attacker re-uses existing code within the kernel to perform malicious computations. In this paper, we present the design and implementation of a system that fully automates the process of constructing instruction sequences that can be used by an attacker for malicious computations. We evaluate the system on different commodity operating systems and show the portability and universality of our approach. Finally, we describe the implementation of a practical attack that can bypass existing kernel integrity protection mechanisms.}
+      \field{langid}{english}
+      \field{title}{Return-Oriented Rootkits: Bypassing Kernel Code Integrity Protection Mechanisms}
+      \field{pages}{16}
+      \range{pages}{1}
+      \verb{file}
+      \verb Hund et al. - Return-Oriented Rootkits Bypassing Kernel Code In.pdf:/home/myself/Zotero/storage/B7IWJX9H/Hund et al. - Return-Oriented Rootkits Bypassing Kernel Code In.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{jia_motag_2013}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=2b26da7f9ed2aeabb323607e02a0db23}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=e623a43485e2e59ba47d113f1656ce81}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0475bb75da9f88c618a112b37b2637b0}{%
+           family={Stavrou},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f45f0badc9b74022eb47a3f522db1e32}
+      \strng{fullhash}{f45f0badc9b74022eb47a3f522db1e32}
+      \strng{bibnamehash}{f45f0badc9b74022eb47a3f522db1e32}
+      \strng{authorbibnamehash}{f45f0badc9b74022eb47a3f522db1e32}
+      \strng{authornamehash}{f45f0badc9b74022eb47a3f522db1e32}
+      \strng{authorfullhash}{f45f0badc9b74022eb47a3f522db1e32}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Distributed Denial of Service (DDoS) attacks still pose a significant threat to critical infrastructure and Internet services alike. In this paper, we propose MOTAG, a moving target defense mechanism that secures service access for authenticated clients against flooding DDoS attacks. MOTAG employs a group of dynamic packet indirection proxies to relay data traffic between legitimate clients and the protected servers. Our design can effectively inhibit external attackers' attempts to directly bombard the network infrastructure. As a result, attackers will have to collude with malicious insiders in locating secret proxies and then initiating attacks. However, MOTAG can isolate insider attacks from innocent clients by continuously "moving" secret proxies to new network locations while shuffling client-to-proxy assignments. We develop a greedy shuffling algorithm to minimize the number of proxy re- allocations (shuffles) while maximizing attack isolation. Simulations are used to investigate MOTAG's effectiveness on protecting services of different scales against intensified DDoS attacks.}
+      \field{booktitle}{2013 22nd {International} {Conference} on {Computer} {Communication} and {Networks} ({ICCCN})}
+      \field{month}{7}
+      \field{shorttitle}{{MOTAG}}
+      \field{title}{{MOTAG}: {Moving} {Target} {Defense} against {Internet} {Denial} of {Service} {Attacks}}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/ICCCN.2013.6614155
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/myself/Zotero/storage/RNKYW7EZ/6614155.html:text/html;Submitted Version:/home/myself/Zotero/storage/ULEMMBBP/Jia et al. - 2013 - MOTAG Moving Target Defense against Internet Deni.pdf:application/pdf
+      \endverb
+      \keyw{Internet,computer network security,IP networks,Computer crime,Authentication,Servers,authenticated clients,authorisation,client-to-proxy assignments,data traffic,DDoS attacks,distributed denial of service attacks,dynamic packet indirection proxies,Equations,greedy shuffling,innocent clients,Internet services,legitimate clients,malicious insiders,Mathematical model,MOTAG,moving target defense against Internet,Nickel,protected servers,proxy re-allocations,service access,telecommunication traffic}
+    \endentry
+    \entry{lei_optimal_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=56e902c27a0bb2252dcd151b18426531}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d129efc3b89ca6e791a06acd2812c338}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1dba7954181d04ac67d05bc2ed559ed4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d199992a68c1d6462bd0da2f4b85b90}
+      \strng{fullhash}{0d199992a68c1d6462bd0da2f4b85b90}
+      \strng{bibnamehash}{0d199992a68c1d6462bd0da2f4b85b90}
+      \strng{authorbibnamehash}{0d199992a68c1d6462bd0da2f4b85b90}
+      \strng{authornamehash}{0d199992a68c1d6462bd0da2f4b85b90}
+      \strng{authorfullhash}{0d199992a68c1d6462bd0da2f4b85b90}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With the evolution of the research on network moving target defense ({MTD}), the selection of optimal strategy has become one of the key problems in current research. Directed to the problem of the improper defensive strategy selection caused by inaccurately characterizing the attack and defense game in {MTD}, optimal strategy selection for {MTD} based on Markov game ({MG}) is proposed to balance the hopping defensive revenue and network service quality. On the one hand, traditional matrix game structure often fails to describe {MTD} confrontation accurately. To deal with this inaccuracy, {MTD} based on {MG} is constructed. Markov decision process is used to characterize the transition among network multi-states. Dynamic game is used to characterize the multi-phases of attack and defense in {MTD} circumstances. Besides, it converts all the attack and defense actions into the changes in attack surface or the ones in exploration surface, thus improving the universality of the proposed model. On the other hand, traditional models care little about defense cost in the process of optimal strategy selection. After comprehensively analyzing the impact of defense cost and defense benefit on the strategy selection, an optimal strategy selection algorithm is designed to prevent the deviation of the selected strategies from actual network conditions, thus ensuring the correctness of optimal strategy selection. Finally, the simulation and the deduction of the proposed approach are given in case study so as to demonstrate the feasibility and effectiveness of the proposed strategy optimal selection approach.}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{{IEEE} Access}
+      \field{title}{Optimal Strategy Selection for Moving Target Defense Based on Markov Game}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{156\bibrangedash 169}
+      \range{pages}{14}
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/myself/Zotero/storage/7A2TVDBY/7805250.html:text/html;IEEE Xplore Full Text PDF:/home/myself/Zotero/storage/YKLG8BEX/Lei et al. - 2017 - Optimal Strategy Selection for Moving Target Defen.pdf:application/pdf
+      \endverb
+      \keyw{moving target defense,computer network security,Computer security,attack surface,Communication networks,decision theory,defense cost impact,Electrostatic discharges,exploration surface,game theory,Game theory,hopping defensive revenue balancing,improper defensive strategy selection,Markov decision process,Markov game,Markov processes,Moving target defense,{MTD},multiphases characterization,network service quality,optimal strategy selection,optimal strategy selection algorithm,quality of service,Surface treatment}
+    \endentry
+    \entry{lei_moving_2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=95563be5ec2bdad861f89b91d4fbdc64}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7930d9bbd55b6195c072e622cf58d5c9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hong-Qi},
+           giveni={H\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=2385622d4fd925642101aec227ac3c91}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Jing-Lei},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=fee5ca3ef227414db838da52fbd9ecb1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yu-Chen},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=d4e5431a007a44791a305c89341492a8}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiao-Hu},
+           giveni={X\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9e4770332abd95e9ac3423bbaf1849eb}
+      \strng{fullhash}{628a1bf6dc5a01a241d7450d16a39a57}
+      \strng{bibnamehash}{9e4770332abd95e9ac3423bbaf1849eb}
+      \strng{authorbibnamehash}{9e4770332abd95e9ac3423bbaf1849eb}
+      \strng{authornamehash}{9e4770332abd95e9ac3423bbaf1849eb}
+      \strng{authorfullhash}{628a1bf6dc5a01a241d7450d16a39a57}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1939-0114, 1939-0122}
+      \field{journaltitle}{Security and Communication Networks}
+      \field{month}{7}
+      \field{shorttitle}{Moving {Target} {Defense} {Techniques}}
+      \field{title}{Moving {Target} {Defense} {Techniques}: A {Survey}}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{volume}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1155/2018/3759626
+      \endverb
+      \verb{file}
+      \verb Lei et al. - 2018 - Moving Target Defense Techniques A Survey.pdf:/home/maximouth/Zotero/storage/4G6R7J5V/Lei et al. - 2018 - Moving Target Defense Techniques A Survey.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.hindawi.com/journals/scn/2018/3759626/
+      \endverb
+      \verb{url}
+      \verb https://www.hindawi.com/journals/scn/2018/3759626/
+      \endverb
+    \endentry
+    \entry{li_optimal_2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7043151123d55e10e233da1e418986bf}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Henger},
+           giveni={H\bibinitperiod}}}%
+        {{hash=838b4de53596d86a0bbac2594a995001}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Zizhan},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{55f2ce8476cf427e31156963f36af0d4}
+      \strng{fullhash}{55f2ce8476cf427e31156963f36af0d4}
+      \strng{bibnamehash}{55f2ce8476cf427e31156963f36af0d4}
+      \strng{authorbibnamehash}{55f2ce8476cf427e31156963f36af0d4}
+      \strng{authornamehash}{55f2ce8476cf427e31156963f36af0d4}
+      \strng{authorfullhash}{55f2ce8476cf427e31156963f36af0d4}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{As an effective approach to thwarting advanced attacks, moving target defense ({MTD}) has been applied to various domains. Previous works on {MTD}, however, mainly focus on deciding the sequence of system conﬁgurations to be used and have largely ignored the equally important timing problem. Given that both the migration cost and attack time vary over system conﬁgurations, it is crucial to jointly optimize the spatial and temporal decisions in {MTD} to better protect the system from persistent threats. In this work, we propose a Stackelberg game model for {MTD} where the defender commits to a joint migration and timing strategy to cope with conﬁguration-dependent migration cost and attack time distribution. The defender’s problem is formulated as a semi-Markovian decision process and a nearly optimal {MTD} strategy is derived by exploiting the unique structure of the game.}
+      \field{day}{30}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{{arXiv}:1905.13293 [cs]}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shorttitle}{Optimal Timing of Moving Target Defense}
+      \field{title}{Optimal Timing of Moving Target Defense: A Stackelberg Game Model}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1905.13293
+      \endverb
+      \verb{file}
+      \verb Li and Zheng - 2019 - Optimal Timing of Moving Target Defense A Stackel.pdf:/home/myself/Zotero/storage/5FDLUGZ3/Li and Zheng - 2019 - Optimal Timing of Moving Target Defense A Stackel.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1905.13293
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1905.13293
+      \endverb
+      \keyw{Computer Science - Computer Science and Game Theory}
+    \endentry
+    \entry{li_2006}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be6f1b6df7f1ddfafad18806238fa391}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=eaa6997a917538c0e67e711a2392f40d}{%
+           family={Vaughn},
+           familyi={V\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1fa97499c170efeb69929301576dc277}
+      \strng{fullhash}{1fa97499c170efeb69929301576dc277}
+      \strng{bibnamehash}{1fa97499c170efeb69929301576dc277}
+      \strng{authorbibnamehash}{1fa97499c170efeb69929301576dc277}
+      \strng{authornamehash}{1fa97499c170efeb69929301576dc277}
+      \strng{authorfullhash}{1fa97499c170efeb69929301576dc277}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we overview cluster security research underway at Mississippi State University (MSU) and focus on one particular effort involving a process to model system vulnerabilities and possible exploitations in specific cluster environments using exploitation graphs (e-graphs). Cluster security research at MSU has included attacks against clusters, anomaly detection, sensor fusion, VGLI security functionality in clusters, and the use of known system vulnerability data, system configuration data, and vulnerability scanner results to create e-graphs to model possible attack scenarios. The use of e-graphs is helpful in determining attacker work factor analysis, cost/benefit analysis of security, detection of attacks, and identification of critical vulnerabilities}
+      \field{booktitle}{Sixth {IEEE} {International} {Symposium} on {Cluster} {Computing} and the {Grid} ({CCGRID}'06)}
+      \field{month}{5}
+      \field{title}{Cluster {Security} {Research} {Involving} the {Modeling} of {Network} {Exploitations} {Using} {Exploitation} {Graphs}}
+      \field{volume}{2}
+      \field{year}{2006}
+      \field{pages}{26\bibrangedash 26}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/CCGRID.2006.1630921
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/maximouth/Zotero/storage/4ADX2NBE/1630921.html:text/html;IEEE Xplore Full Text PDF:/home/maximouth/Zotero/storage/7TBKSHXH/Li and Vaughn - 2006 - Cluster Security Research Involving the Modeling o.pdf:application/pdf
+      \endverb
+      \keyw{Aerospace electronics,anomaly detection,attack detection,attacker work factor analysis,cluster environments,cluster security,cluster security research,Computer networks,Computer security,Condition monitoring,Cost benefit analysis,critical vulnerability identification,Data security,exploitation graph (e-graph),exploitation graphs,graph theory,Intelligent sensors,modeling and simulating,network exploitation modeling,network securitv,network security,Runtime,security cost-benefit analysis,security of data,sensor fusion,Sensor fusion,Sensor systems,system configuration data,system vulnerability data,telecommunication security,VGLI security functionality,vulnerability scanner,workstation clusters}
+    \endentry
+    \entry{luo_2014}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3c2d02b9e6377f0fbc961e1b2a333161}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Yue-Bin},
+           giveni={Y\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=dc5528e375988fe167590fe55464774c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bao-Sheng},
+           giveni={B\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=6c2e580b94bacbc73d907567c02b6c8e}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Gui-Lin},
+           giveni={G\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Hainan Island, China}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b95206ba36632fd11392cfc966b149a5}
+      \strng{fullhash}{b95206ba36632fd11392cfc966b149a5}
+      \strng{bibnamehash}{b95206ba36632fd11392cfc966b149a5}
+      \strng{authorbibnamehash}{b95206ba36632fd11392cfc966b149a5}
+      \strng{authornamehash}{b95206ba36632fd11392cfc966b149a5}
+      \strng{authorfullhash}{b95206ba36632fd11392cfc966b149a5}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Port hopping is a typical moving target defense, which constantly changes service port number to thwart reconnaissance attack. It is effective in hiding service identities and confusing potential attackers, but it is still unknown how effective port hopping is and under what circumstances it is a viable proactive defense because the existed works are limited and they usually discuss only a few parameters and give some empirical studies. This paper introduces urn model and quantifies the likelihood of attacker success in terms of the port pool size, number of probes, number of vulnerable services, and hopping frequency. Theoretical analysis shows that port hopping is an effective and promising proactive defense technology in thwarting network attacks.}
+      \field{booktitle}{2014 7th {International} {Conference} on {Security} {Technology}}
+      \field{isbn}{978-1-4799-7776-5 978-1-4799-7775-8}
+      \field{month}{12}
+      \field{title}{Effectiveness of {Port} {Hopping} as a {Moving} {Target} {Defense}}
+      \field{urlday}{29}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 10}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/SecTech.2014.9
+      \endverb
+      \verb{file}
+      \verb Luo et al. - 2014 - Effectiveness of Port Hopping as a Moving Target D.pdf:/home/maximouth/Downloads/Luo et al. - 2014 - Effectiveness of Port Hopping as a Moving Target D.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/7023273/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/7023273/
+      \endverb
+    \endentry
+    \entry{nmap}{book}{}
+      \name{author}{1}{}{%
+        {{hash=02564a649bf6fd98f73b15832ba76050}{%
+           family={Lyon},
+           familyi={L\bibinitperiod},
+           given={G.\bibnamedelimi F.},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{02564a649bf6fd98f73b15832ba76050}
+      \strng{fullhash}{02564a649bf6fd98f73b15832ba76050}
+      \strng{bibnamehash}{02564a649bf6fd98f73b15832ba76050}
+      \strng{authorbibnamehash}{02564a649bf6fd98f73b15832ba76050}
+      \strng{authornamehash}{02564a649bf6fd98f73b15832ba76050}
+      \strng{authorfullhash}{02564a649bf6fd98f73b15832ba76050}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-9799587-1-7}
+      \field{langid}{english}
+      \field{title}{Nmap network scanning: The official nmap project guide to network discovery and security scanning}
+      \field{year}{2009}
+    \endentry
+    \entry{nmap_2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=717681b1f80793eac9a6d993ba0d6f38}{%
+           family={Lyon},
+           familyi={L\bibinitperiod},
+           given={Gordon\bibnamedelima Fyodor},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nmap Project}%
+      }
+      \strng{namehash}{717681b1f80793eac9a6d993ba0d6f38}
+      \strng{fullhash}{717681b1f80793eac9a6d993ba0d6f38}
+      \strng{bibnamehash}{717681b1f80793eac9a6d993ba0d6f38}
+      \strng{authorbibnamehash}{717681b1f80793eac9a6d993ba0d6f38}
+      \strng{authornamehash}{717681b1f80793eac9a6d993ba0d6f38}
+      \strng{authorfullhash}{717681b1f80793eac9a6d993ba0d6f38}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-9799-5871-7}
+      \field{title}{Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning}
+      \field{year}{2009}
+    \endentry
+    \entry{Jeep}{online}{}
+      \name{author}{2}{}{%
+        {{hash=86847c6d1032b69e0487ab513fd8af59}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=75fb2bb49519b82c0253d2d8d3295fda}{%
+           family={Valasek},
+           familyi={V\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{fullhash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{bibnamehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{authorbibnamehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{authornamehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{authorfullhash}{0c060581b2ccb71b2f1037263263e087}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{Remote {Exploitation} of an {Unaltered} {Passenger} {Vehicle}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Miller and Valasek - Remote Exploitation of an Unaltered Passenger Vehi.pdf:/home/myself/Zotero/storage/4MSI4DT2/Miller and Valasek - Remote Exploitation of an Unaltered Passenger Vehi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://illmatics.com/Remote%20Car%20Hacking.pdf
+      \endverb
+      \verb{url}
+      \verb http://illmatics.com/Remote%20Car%20Hacking.pdf
+      \endverb
+    \endentry
+    \entry{Mil2015}{online}{}
+      \name{author}{2}{}{%
+        {{hash=86847c6d1032b69e0487ab513fd8af59}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=75fb2bb49519b82c0253d2d8d3295fda}{%
+           family={Valasek},
+           familyi={V\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{fullhash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{bibnamehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{authorbibnamehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{authornamehash}{0c060581b2ccb71b2f1037263263e087}
+      \strng{authorfullhash}{0c060581b2ccb71b2f1037263263e087}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Remote exploitation of an unaltered passenger vehicle}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://www-cs-faculty.stanford.edu/~uno/abcde.html
+      \endverb
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/~uno/abcde.html
+      \endverb
+    \endentry
+    \entry{moody_2014}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3c9a00ce52ad90bdbcaf9acec0d7e721}{%
+           family={Moody},
+           familyi={M\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=28834dc41e044b3bf8ddcbd334f135d6}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Hongxin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a65ed117a286ade38c97561e48e3b353}{%
+           family={Apon},
+           familyi={A\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Miami, United States}%
+      }
+      \list{publisher}{1}{%
+        {ICST}%
+      }
+      \strng{namehash}{c4f06741a9347b741ea6b765cc861c6a}
+      \strng{fullhash}{c4f06741a9347b741ea6b765cc861c6a}
+      \strng{bibnamehash}{c4f06741a9347b741ea6b765cc861c6a}
+      \strng{authorbibnamehash}{c4f06741a9347b741ea6b765cc861c6a}
+      \strng{authornamehash}{c4f06741a9347b741ea6b765cc861c6a}
+      \strng{authorfullhash}{c4f06741a9347b741ea6b765cc861c6a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Distributed and parallel applications are critical information technology systems in multiple industries, including academia, military, government, ﬁnancial, medical, and transportation. These applications present target rich environments for malicious attackers seeking to disrupt the conﬁdentiality, integrity and availability of these systems. Applying the military concept of defense cyber maneuver to these systems can provide protection and defense mechanisms that allow survivability and operational continuity. Understanding the tradeoffs between information systems security and operational performance when applying maneuver principles is of interest to administrators, users, and researchers. To this end, we present a model of a defensive maneuver cyber platform using Stochastic Petri Nets. This model enables the understanding and evaluation of the costs and beneﬁts of maneuverability in a distributed application environment, speciﬁcally focusing on moving target defense and deceptive defense strategies.}
+      \field{booktitle}{Proceedings of the 10th {IEEE} {International} {Conference} on {Collaborative} {Computing}: {Networking}, {Applications} and {Worksharing}}
+      \field{isbn}{978-1-63190-043-3}
+      \field{title}{Defensive {Maneuver} {Cyber} {Platform} {Modeling} with {Stochastic} {Petri} {Nets}}
+      \field{urlday}{29}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4108/icst.collaboratecom.2014.257559
+      \endverb
+      \verb{file}
+      \verb Moody et al. - 2014 - Defensive Maneuver Cyber Platform Modeling with St.pdf:/home/maximouth/Zotero/storage/D6ECAZ6U/Moody et al. - 2014 - Defensive Maneuver Cyber Platform Modeling with St.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://eudl.eu/doi/10.4108/icst.collaboratecom.2014.257559
+      \endverb
+      \verb{url}
+      \verb http://eudl.eu/doi/10.4108/icst.collaboratecom.2014.257559
+      \endverb
+    \endentry
+    \entry{noel__2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=71d47a0b473746c68c53b4f5bef94607}{%
+           family={Noel},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f21aa520ad69374e7b6d40b5c0891da7}{%
+           family={Jajodia},
+           familyi={J\bibinitperiod},
+           given={Sushil},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9c73c57c27f9eac7d9618f3b067dde24}
+      \strng{fullhash}{9c73c57c27f9eac7d9618f3b067dde24}
+      \strng{bibnamehash}{9c73c57c27f9eac7d9618f3b067dde24}
+      \strng{authorbibnamehash}{9c73c57c27f9eac7d9618f3b067dde24}
+      \strng{authornamehash}{9c73c57c27f9eac7d9618f3b067dde24}
+      \strng{authorfullhash}{9c73c57c27f9eac7d9618f3b067dde24}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Today’s computer systems face sophisticated attackers who combine multiple vulnerabilities to penetrate networks with devastating impact. The overall security of a network cannot be determined by simply counting the number of vulnerabilities. To accurately assess the security of networked systems, one must understand how vulnerabilities can be combined to stage an attack. We model such composition of vulnerabilities through attack graphs. By simulating incremental network penetration, and propagating attack likelihoods, we measure the overall security of a networked system. From this, we score risk mitigation options in terms of maximizing security and minimizing cost. We populate our attack graph models from live network scans and databases that have knowledge about properties such as vulnerability likelihood, impact, severity, and ease of exploitation. Our ﬂexible model can be used to quantify overall security of networked systems, and to study cost/beneﬁt tradeoﬀs for analyzing return on security investment.}
+      \field{number}{1}
+      \field{title}{Measuring {Security} {Risk} of {Networks} {Using} {Attack} {Graphs}}
+      \field{volume}{1}
+      \field{year}{2010}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{file}
+      \verb Noel and Jajodia - Measuring Security Risk of Networks Using Attack G.pdf:/home/maximouth/Zotero/storage/6AFBEHIR/Noel and Jajodia - Measuring Security Risk of Networks Using Attack G.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{okhravi_2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6e943e83ab4619c154455eeee07971f2}{%
+           family={Okhravi},
+           familyi={O\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1f977567982815021b7995e5cf5eaf9f}{%
+           family={Hobson},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=de4db1749535315dc57d767db4797aae}{%
+           family={Bigelow},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=97abc73948b3a735b8058d3d8a135596}{%
+           family={Streilein},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{fullhash}{0b6c8008723b69f0181e9a8d5cee62ba}
+      \strng{bibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorbibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authornamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorfullhash}{0b6c8008723b69f0181e9a8d5cee62ba}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Protecting critical systems and assets against cyberattacks is an ever more difficult challenge that strongly favors attackers. Whereas defenders must protect a large, diverse set of cybersystems containing an unknown number of vulnerabilities of various types, attackers need only find one or a few exploitable vulnerabilities to mount a successful attack. One promising approach that can shift the balance in the defenders' favor is to create uncertainty for attackers by dynamically changing system properties in what is called a cyber moving target (MT). MT techniques seek to randomize system components to reduce the likelihood of a successful attack, add dynamics to a system to reduce the lifetime of an attack, and diversify otherwise homogeneous collections of systems to limit the damage of a large-scale attack. In this article, the authors review the five dominant domains of MT techniques available today as research prototypes and commercial solutions. They present the techniques' strengths and weaknesses and make recommendations for future research that will improve current capabilities.}
+      \field{issn}{1540-7993}
+      \field{journaltitle}{IEEE Security Privacy}
+      \field{month}{3}
+      \field{title}{Finding {Focus} in the {Blur} of {Moving}-{Target} {Techniques}}
+      \field{year}{2014}
+      \field{pages}{16\bibrangedash 26}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/MSP.2013.137
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/maximouth/Zotero/storage/G4M43SLB/6673500.html:text/html;IEEE Xplore Full Text PDF:/home/maximouth/Zotero/storage/2D8NJXX3/Okhravi et al. - 2014 - Finding Focus in the Blur of Moving-Target Techniq.pdf:application/pdf
+      \endverb
+      \keyw{security of data,Ports (Computers),Computer security,ASLR,Computer crime,critical system protection,cyber moving target,cyberattacks,dynamic data,dynamic network,dynamic platform,Dynamic programming,dynamic runtime environment,dynamic software,IP networks,large-scale attack,moving target,Network security,reconnaissance,Runtime environment,Software engineering,Target tracking}
+    \endentry
+    \entry{okhravi_finding_2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6e943e83ab4619c154455eeee07971f2}{%
+           family={Okhravi},
+           familyi={O\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1f977567982815021b7995e5cf5eaf9f}{%
+           family={Hobson},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=de4db1749535315dc57d767db4797aae}{%
+           family={Bigelow},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=97abc73948b3a735b8058d3d8a135596}{%
+           family={Streilein},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{fullhash}{0b6c8008723b69f0181e9a8d5cee62ba}
+      \strng{bibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorbibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authornamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorfullhash}{0b6c8008723b69f0181e9a8d5cee62ba}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Protecting critical systems and assets against cyberattacks is an ever more difficult challenge that strongly favors attackers. Whereas defenders must protect a large, diverse set of cybersystems containing an unknown number of vulnerabilities of various types, attackers need only find one or a few exploitable vulnerabilities to mount a successful attack. One promising approach that can shift the balance in the defenders' favor is to create uncertainty for attackers by dynamically changing system properties in what is called a cyber moving target (MT). MT techniques seek to randomize system components to reduce the likelihood of a successful attack, add dynamics to a system to reduce the lifetime of an attack, and diversify otherwise homogeneous collections of systems to limit the damage of a large-scale attack. In this article, the authors review the five dominant domains of MT techniques available today as research prototypes and commercial solutions. They present the techniques' strengths and weaknesses and make recommendations for future research that will improve current capabilities.}
+      \field{journaltitle}{IEEE Security Privacy}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Finding {Focus} in the {Blur} of {Moving}-{Target} {Techniques}}
+      \field{volume}{12}
+      \field{year}{2014}
+      \field{pages}{16\bibrangedash 26}
+      \range{pages}{11}
+      \verb{file}
+      \verb IEEE Xplore Full Text PDF:/home/myself/Zotero/storage/E2KY28BP/Okhravi et al. - 2014 - Finding Focus in the Blur of Moving-Target Techniq.pdf:application/pdf;IEEE Xplore Abstract Record:/home/myself/Zotero/storage/B5VCEZW3/6673500.html:text/html
+      \endverb
+      \keyw{security of data,IP networks,ASLR,Computer crime,Computer security,critical system protection,cyber moving target,cyberattacks,dynamic data,dynamic network,dynamic platform,Dynamic programming,dynamic runtime environment,dynamic software,large-scale attack,moving target,Network security,Ports (Computers),reconnaissance,Runtime environment,Software engineering,Target tracking}
+    \endentry
+    \entry{okhravi_survey_2013}{report}{}
+      \name{author}{7}{}{%
+        {{hash=6e943e83ab4619c154455eeee07971f2}{%
+           family={Okhravi},
+           familyi={O\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3e4eab4fd158e2ec8476ea63e3cef959}{%
+           family={Rabe},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=049458a95b33980ac9832689e6a76da6}{%
+           family={Mayberry},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=13e38789978ca9b6b5ebd20d6e4f6470}{%
+           family={Leonard},
+           familyi={L\bibinitperiod},
+           given={W.\bibnamedelimi G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c170ca7a933d27b3942c2b11f8074f33}{%
+           family={Hobson},
+           familyi={H\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=de4db1749535315dc57d767db4797aae}{%
+           family={Bigelow},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=31fd433743d05776fdab852de3e802e1}{%
+           family={Streilein},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Defense Technical Information Center}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Fort Belvoir, VA}%
+      }
+      \strng{namehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{fullhash}{09680e8649d3c163eb9cdcc47ea9d37b}
+      \strng{bibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorbibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authornamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorfullhash}{09680e8649d3c163eb9cdcc47ea9d37b}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{9}
+      \field{shorttitle}{Survey of {Cyber} {Moving} {Target} {Techniques}}
+      \field{title}{Survey of {Cyber} {Moving} {Target} {Techniques}:}
+      \field{type}{techreport}
+      \field{year}{2013}
+      \verb{file}
+      \verb Okhravi et al. - 2013 - Survey of Cyber Moving Target Techniques.pdf:/home/myself/Zotero/storage/XD4XN9PE/Okhravi et al. - 2013 - Survey of Cyber Moving Target Techniques.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://apps.dtic.mil/docs/citations/ADA591804
+      \endverb
+      \verb{url}
+      \verb https://apps.dtic.mil/docs/citations/ADA591804
+      \endverb
+    \endentry
+    \entry{survey_cyber}{report}{}
+      \name{author}{7}{}{%
+        {{hash=6e943e83ab4619c154455eeee07971f2}{%
+           family={Okhravi},
+           familyi={O\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3e4eab4fd158e2ec8476ea63e3cef959}{%
+           family={Rabe},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=049458a95b33980ac9832689e6a76da6}{%
+           family={Mayberry},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=13e38789978ca9b6b5ebd20d6e4f6470}{%
+           family={Leonard},
+           familyi={L\bibinitperiod},
+           given={W.\bibnamedelimi G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c170ca7a933d27b3942c2b11f8074f33}{%
+           family={Hobson},
+           familyi={H\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=de4db1749535315dc57d767db4797aae}{%
+           family={Bigelow},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=31fd433743d05776fdab852de3e802e1}{%
+           family={Streilein},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Defense Technical Information Center}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Fort Belvoir, VA}%
+      }
+      \strng{namehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{fullhash}{09680e8649d3c163eb9cdcc47ea9d37b}
+      \strng{bibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorbibnamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authornamehash}{476ea88f1a7d8ea4e363120c5e119405}
+      \strng{authorfullhash}{09680e8649d3c163eb9cdcc47ea9d37b}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{9}
+      \field{shorttitle}{Survey of {Cyber} {Moving} {Target} {Techniques}}
+      \field{title}{Survey of {Cyber} {Moving} {Target} {Techniques}:}
+      \field{type}{techreport}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.21236/ADA591804
+      \endverb
+      \verb{file}
+      \verb Okhravi et al. - 2013 - Survey of Cyber Moving Target Techniques.pdf:/home/maximouth/Zotero/storage/WZTLAJRQ/Okhravi et al. - 2013 - Survey of Cyber Moving Target Techniques.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.dtic.mil/docs/citations/ADA591804
+      \endverb
+      \verb{url}
+      \verb http://www.dtic.mil/docs/citations/ADA591804
+      \endverb
+    \endentry
+    \entry{paruchuri_efcient_nodate}{article}{}
+      \name{author}{5}{}{%
+        {{hash=32b8f957b270e3b618974c3184a67553}{%
+           family={Paruchuri},
+           familyi={P\bibinitperiod},
+           given={Praveen},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b4b5a5559647f9968c132b8a1551189c}{%
+           family={Pearce},
+           familyi={P\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0002f004c0bbf54fb46776c3a82af7a2}{%
+           family={Tambe},
+           familyi={T\bibinitperiod},
+           given={Milind},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fbea0ff2b5d7adaf481cb0d54c850ae8}{%
+           family={Ordonez},
+           familyi={O\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=de674f6370185bbdaef21079761fcd7f}{%
+           family={Kraus},
+           familyi={K\bibinitperiod},
+           given={Sarit},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Honolulu, Hawaii}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3c4fbfb17f199d1f552cab234e54de41}
+      \strng{fullhash}{83d512c6b9d4413503ecd8c450388739}
+      \strng{bibnamehash}{3c4fbfb17f199d1f552cab234e54de41}
+      \strng{authorbibnamehash}{3c4fbfb17f199d1f552cab234e54de41}
+      \strng{authornamehash}{3c4fbfb17f199d1f552cab234e54de41}
+      \strng{authorfullhash}{83d512c6b9d4413503ecd8c450388739}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In adversarial multiagent domains, security, commonly deﬁned as the ability to deal with intentional threats from other agents, is a critical issue. This paper focuses on domains where these threats come from unknown adversaries. These domains can be modeled as Bayesian games; much work has been done on ﬁnding equilibria for such games. However, it is often the case in multiagent security domains that one agent can commit to a mixed strategy which its adversaries observe before choosing their own strategies. In this case, the agent can maximize reward by ﬁnding an optimal strategy, without requiring equilibrium. Previous work has shown this problem of optimal strategy selection to be {NP}-hard. Therefore, we present a heuristic called {ASAP}, with three key advantages to address the problem. First, {ASAP} searches for the highest-reward strategy, rather than a Bayes-Nash equilibrium, allowing it to ﬁnd feasible strategies that exploit the natural ﬁrst-mover advantage of the game. Second, it provides strategies which are simple to understand, represent, and implement. Third, it operates directly on the compact, Bayesian game representation, without requiring conversion to normal form. We provide an efﬁcient Mixed Integer Linear Program ({MILP}) implementation for {ASAP}, along with experimental results illustrating signiﬁcant speedups and higher rewards over other approaches.}
+      \field{booktitle}{Proceedings of the 6th International Joint Conference on Autonomous Agents and Multiagent Systems}
+      \field{isbn}{9788190426275}
+      \field{langid}{english}
+      \field{series}{AAMAS '07}
+      \field{title}{An Efﬁcient Heuristic Approach for Security Against Multiple Adversaries}
+      \field{year}{2007}
+      \field{pages}{8}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/1329125.1329344
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1329125.1329344
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1329125.1329344
+      \endverb
+      \keyw{security of agent systems,game theory,Bayesian and Stackelberg games}
+    \endentry
+    \entry{phillips_1998}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d6fb9f24539c2de2f1b8bf0e2d6390c0}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b081b70c277783a0f7847a86e5cfbc2d}{%
+           family={Swiler},
+           familyi={S\bibinitperiod},
+           given={Laura\bibnamedelima Painton},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Charlottesville, Virginia, United States}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{a9a975a356a6d04f89ec58ab92874fa0}
+      \strng{fullhash}{a9a975a356a6d04f89ec58ab92874fa0}
+      \strng{bibnamehash}{a9a975a356a6d04f89ec58ab92874fa0}
+      \strng{authorbibnamehash}{a9a975a356a6d04f89ec58ab92874fa0}
+      \strng{authornamehash}{a9a975a356a6d04f89ec58ab92874fa0}
+      \strng{authorfullhash}{a9a975a356a6d04f89ec58ab92874fa0}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a graph-based approach to network vulnerability analysis. The method is flexible, allowing analysis of attacks from both outside and inside the network. It can analyze risks to a specific network asset, or examine the universe of possible consequences following a successful attack. The graph-based tool can identify the set of attack paths that have a high probability of success (or a low "effort" cost) for the attacker. The system could be used to test the effectiveness of making configuration changes, implementing an intrusion detection system, etc.}
+      \field{booktitle}{Proceedings of the 1998 workshop on {New} security paradigms - {NSPW} '98}
+      \field{isbn}{978-1-58113-168-0}
+      \field{title}{A graph-based system for network-vulnerability analysis}
+      \field{urlday}{8}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \field{pages}{71\bibrangedash 79}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/310889.310919
+      \endverb
+      \verb{file}
+      \verb Phillips and Swiler - 1998 - A graph-based system for network-vulnerability ana.pdf:/home/maximouth/Zotero/storage/TDCGVH5F/Phillips and Swiler - 1998 - A graph-based system for network-vulnerability ana.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://portal.acm.org/citation.cfm?doid=310889.310919
+      \endverb
+      \verb{url}
+      \verb http://portal.acm.org/citation.cfm?doid=310889.310919
+      \endverb
+    \endentry
+    \entry{prisner_game_2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4ad31ea59af17c4ab476300d7b394846}{%
+           family={Prisner},
+           familyi={P\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, {DC}}%
+      }
+      \list{publisher}{1}{%
+        {{MAA}, The Mathematical Association of America}%
+      }
+      \strng{namehash}{4ad31ea59af17c4ab476300d7b394846}
+      \strng{fullhash}{4ad31ea59af17c4ab476300d7b394846}
+      \strng{bibnamehash}{4ad31ea59af17c4ab476300d7b394846}
+      \strng{authorbibnamehash}{4ad31ea59af17c4ab476300d7b394846}
+      \strng{authornamehash}{4ad31ea59af17c4ab476300d7b394846}
+      \strng{authorfullhash}{4ad31ea59af17c4ab476300d7b394846}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{{OCLC}: 986787860}
+      \field{title}{Game theory through examples}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Prisner - 2014 - Game theory through examples.pdf:/home/myself/Zotero/storage/LIRYRN3P/Prisner - 2014 - Game theory through examples.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Ortalo_1999}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=e8762d522f0824817240a1b358f9a49f}{%
+           family={R.Ortalo},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi Kaaniche},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           suffix={Y.Deswarte},
+           suffixi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8762d522f0824817240a1b358f9a49f}
+      \strng{fullhash}{e8762d522f0824817240a1b358f9a49f}
+      \strng{bibnamehash}{e8762d522f0824817240a1b358f9a49f}
+      \strng{authorbibnamehash}{e8762d522f0824817240a1b358f9a49f}
+      \strng{authornamehash}{e8762d522f0824817240a1b358f9a49f}
+      \strng{authorfullhash}{e8762d522f0824817240a1b358f9a49f}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE Transactions on Software Engineering}
+      \field{month}{09}
+      \field{title}{Experimenting with quantitative evaluation tools for monitoring operational security,}
+      \field{volume}{25}
+      \field{year}{1999}
+      \field{pages}{633\bibrangedash 650}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1109/32.815323
+      \endverb
+      \verb{file}
+      \verb Experimenting Record:/home/maximouth/Download/opsec.experiment.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{sengupta_game_2017}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a9ffd9a27731393b77d00e9adea8fac7}{%
+           family={Sengupta},
+           familyi={S\bibinitperiod},
+           given={Sailik},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9b9abe97049965a9d173b2d0eadd5575}{%
+           family={Vadlamudi},
+           familyi={V\bibinitperiod},
+           given={Satya\bibnamedelima Gautam},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=7b2a9fc9e6a7ab9c84859fc6b27855a5}{%
+           family={Kambhampati},
+           familyi={K\bibinitperiod},
+           given={Subbarao},
+           giveni={S\bibinitperiod}}}%
+        {{hash=27671a2c4532ebe6ef7eda668ee69bf7}{%
+           family={Doupé},
+           familyi={D\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0520bfa8022eca18f16f1685b4375855}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Ziming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed6807e62fde205a5f707df45b029fb0}{%
+           family={Taguinod},
+           familyi={T\bibinitperiod},
+           given={Marthony},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2a14afcb17ccca93e7a14873cb2cb10d}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Gail-Joon},
+           giveni={G\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa5b08172b24c0c723985a14c1c44d14}
+      \strng{fullhash}{932d809ea2f64005d8114212f86a5a84}
+      \strng{bibnamehash}{aa5b08172b24c0c723985a14c1c44d14}
+      \strng{authorbibnamehash}{aa5b08172b24c0c723985a14c1c44d14}
+      \strng{authornamehash}{aa5b08172b24c0c723985a14c1c44d14}
+      \strng{authorfullhash}{932d809ea2f64005d8114212f86a5a84}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The present complexity in designing web applications makes software security a diﬃcult goal to achieve. An attacker can explore a deployed service on the web and attack at his/her own leisure. Moving Target Defense ({MTD}) in web applications is an eﬀective mechanism to nullify this advantage of their reconnaissance but the framework demands a good switching strategy when switching between multiple conﬁgurations for its web-stack. To address this issue, we propose the modeling of a real world {MTD} web application as a repeated Bayesian game. We formulate an optimization problem that generates an eﬀective switching strategy while considering the cost of switching between diﬀerent web-stack conﬁgurations. To use this model for a developed {MTD} system, we develop an automated system for generating attack sets of Common Vulnerabilities and Exposures ({CVEs}) for input attacker types with predeﬁned capabilities. Our framework obtains realistic reward values for the players (defenders and attackers) in this game by using security domain expertise on {CVEs} obtained from the National Vulnerability Database ({NVD}). We also address the issue of prioritizing vulnerabilities that when ﬁxed, improves the security of the {MTD} system. Lastly, we demonstrate the robustness of our proposed model by evaluating its performance when there is uncertainty about input attacker information.}
+      \field{booktitle}{International Conference on Autonomous Agents and Multiagent Systems, AAMAS-2017	}
+      \field{journaltitle}{{AI} Magazine}
+      \field{langid}{english}
+      \field{series}{AAMAS '17}
+      \field{shortjournal}{{AIMag}}
+      \field{title}{A Game Theoretic Approach to Strategy Generation for Moving Target Defense in Web Applications}
+      \field{year}{2017}
+      \field{pages}{9}
+      \range{pages}{1}
+      \verb{file}
+      \verb Sengupta et al. - A Game Theoretic Approach to Strategy Generation f.pdf:/home/myself/Zotero/storage/JG6FDRQD/Sengupta et al. - A Game Theoretic Approach to Strategy Generation f.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{smith_car_2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=45da4649750e931f9e2b275eee8dc83d}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \list{publisher}{1}{%
+        {No Starch Press}%
+      }
+      \strng{namehash}{45da4649750e931f9e2b275eee8dc83d}
+      \strng{fullhash}{45da4649750e931f9e2b275eee8dc83d}
+      \strng{bibnamehash}{45da4649750e931f9e2b275eee8dc83d}
+      \strng{authorbibnamehash}{45da4649750e931f9e2b275eee8dc83d}
+      \strng{authornamehash}{45da4649750e931f9e2b275eee8dc83d}
+      \strng{authorfullhash}{45da4649750e931f9e2b275eee8dc83d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{"A technical guide that shows how to identify network security risks, exploit software vulnerabilities, and gain a deeper understanding of vehicle software. Covers how navigation systems can be hacked to take control of vehicles, system interconnectivity, and how to bypass dealership restrictions to diagnose and troubleshoot problems"--}
+      \field{isbn}{978-1-59327-703-1}
+      \field{langid}{english}
+      \field{pagetotal}{278}
+      \field{shorttitle}{The car hacker's handbook}
+      \field{title}{The car hacker's handbook: a guide for the penetration tester}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Smith - 2016 - The car hacker's handbook a guide for the penetra.pdf:/home/myself/Zotero/storage/6P23684P/Smith - 2016 - The car hacker's handbook a guide for the penetra.pdf:application/pdf
+      \endverb
+      \keyw{Automobiles,Automotive computers,Customizing,Handbooks,manuals,etc,Penetration testing (Computer security),Performance,Security measures,Vandalism Prevention}
+    \endentry
+    \entry{ISO26262}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6b5e21fdae8822c8be9b5edf929dbfe}{%
+           family={Standardization},
+           familyi={S\bibinitperiod},
+           given={International\bibnamedelima Organization},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Organization for Standardization}%
+      }
+      \list{publisher}{1}{%
+        {ISO}%
+      }
+      \strng{namehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{fullhash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{bibnamehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{authorbibnamehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{authornamehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{authorfullhash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Road Vehicles Functional Safety Package}
+      \field{year}{2018}
+    \endentry
+    \entry{ISO21434}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6b5e21fdae8822c8be9b5edf929dbfe}{%
+           family={Standardization},
+           familyi={S\bibinitperiod},
+           given={International\bibnamedelima Organization},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Organization for Standardization}%
+      }
+      \list{publisher}{1}{%
+        {ISO/SAE}%
+      }
+      \strng{namehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{fullhash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{bibnamehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{authorbibnamehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{authornamehash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \strng{authorfullhash}{d6b5e21fdae8822c8be9b5edf929dbfe}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Road Vehicles Cybersecurity engineering}
+      \field{year}{2021}
+    \endentry
+    \entry{taylor_automated_2016}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=822bf97fbf1b3a96e06bf140f0c06c7d}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=78d2dd8eb9a0f41d7fd81f75bfbd0305}{%
+           family={Zaffarano},
+           familyi={Z\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f8e9f6dab06b8e4917054d15f0f17239}{%
+           family={Koller},
+           familyi={K\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f1fcb5c358de3c65592b9ee90e00aa68}{%
+           family={Bancroft},
+           familyi={B\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91c3d40b30c075e6758217c7e0e736cd}{%
+           family={Syversen},
+           familyi={S\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {{ACM} Press}%
+      }
+      \strng{namehash}{ca27778588020a24efd02da880c63244}
+      \strng{fullhash}{1e719c548e5be09ce273539e73a81bf9}
+      \strng{bibnamehash}{ca27778588020a24efd02da880c63244}
+      \strng{authorbibnamehash}{ca27778588020a24efd02da880c63244}
+      \strng{authornamehash}{ca27778588020a24efd02da880c63244}
+      \strng{authorfullhash}{1e719c548e5be09ce273539e73a81bf9}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this paper, we describe the results of several experiments designed to test two dynamic network moving target defenses against a propagating data exfiltration attack. We designed a collection of metrics to assess the costs to mission activities and the benefits in the face of attacks and evaluated the impacts of the moving target defenses in both areas. Experiments leveraged Siege’s {CyberQuantification} Framework to automatically provision the networks used in the experiment, install the two moving target defenses, collect data, and analyze the results. We identify areas in which the costs and benefits of the two moving target defenses differ, and note some of their unique performance characteristics.}
+      \field{booktitle}{Proceedings of the 2016 {ACM} Workshop on Moving Target Defense - {MTD}'16}
+      \field{eventtitle}{the 2016 {ACM} Workshop}
+      \field{langid}{english}
+      \field{shorttitle}{Automated Effectiveness Evaluation of Moving Target Defenses}
+      \field{title}{Automated Effectiveness Evaluation of Moving Target Defenses: Metrics for Missions and Attacks}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Taylor et al. - 2016 - Automated Effectiveness Evaluation of Moving Targe.pdf:/home/myself/Zotero/storage/G3UI6W5H/Taylor et al. - 2016 - Automated Effectiveness Evaluation of Moving Targe.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{valasek_adventures}{online}{}
+      \name{author}{2}{}{%
+        {{hash=75fb2bb49519b82c0253d2d8d3295fda}{%
+           family={Valasek},
+           familyi={V\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=86847c6d1032b69e0487ab513fd8af59}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{14594547df4451178970463c3160d58d}
+      \strng{fullhash}{14594547df4451178970463c3160d58d}
+      \strng{bibnamehash}{14594547df4451178970463c3160d58d}
+      \strng{authorbibnamehash}{14594547df4451178970463c3160d58d}
+      \strng{authornamehash}{14594547df4451178970463c3160d58d}
+      \strng{authorfullhash}{14594547df4451178970463c3160d58d}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Adventures in {Automotive} {Networks} and {Control} {Units}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Valasek and Miller - Adventures in Automotive Networks and Control Unit.pdf:/home/myself/Zotero/storage/48STZVUV/Valasek and Miller - Adventures in Automotive Networks and Control Unit.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://illmatics.com/car_hacking.pdf
+      \endverb
+      \verb{url}
+      \verb http://illmatics.com/car_hacking.pdf
+      \endverb
+    \endentry
+    \entry{xu_2014}{article}{}
+      \name{author}{6}{}{%
+        {{hash=05ed36bcb6a44b5b9e4d52219469373d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=402ca32c5d95c5654f73101e25cf943d}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Pinyao},
+           giveni={P\bibinitperiod}}}%
+        {{hash=047c72346f5e4f2afb91f2ee56fc7315}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Mingyi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=27f60a30d9123e356104d6b992183eb7}{%
+           family={Erbacher},
+           familyi={E\bibinitperiod},
+           given={Robert\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=6f26ccd90c2ea3f03e9ffea308bca0f7}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Minghui},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2c112d9d43345185672db278b5111bc4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Scottsdale, Arizona, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{3cdd41d981feb2d3b1678d076d85297b}
+      \strng{fullhash}{a0f30e4a71cc7625123a475c7354f62d}
+      \strng{bibnamehash}{3cdd41d981feb2d3b1678d076d85297b}
+      \strng{authorbibnamehash}{3cdd41d981feb2d3b1678d076d85297b}
+      \strng{authornamehash}{3cdd41d981feb2d3b1678d076d85297b}
+      \strng{authorfullhash}{a0f30e4a71cc7625123a475c7354f62d}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Moving Target Defense techniques have been proposed to increase uncertainty and apparent complexity for attackers. When more than one Moving Target Defense techniques are eﬀective to limit opportunities of an attack, it is required to compare these techniques and select the best defense choice. In this paper, we propose a three-layer model to evaluate and compare eﬀectiveness of diﬀerent Moving Target Defenses. This model is designed as an attempt to ﬁll a gap among existing evaluation methods and works as a systematic framework for Moving Target Defense comparison.}
+      \field{booktitle}{Proceedings of the {First} {ACM} {Workshop} on {Moving} {Target} {Defense} - {MTD} '14}
+      \field{journaltitle}{Proceedings of the ACM Conference on Computer and Communications Security}
+      \field{month}{11}
+      \field{title}{Comparing Different Moving Target Defense Techniques}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \field{pages}{97\bibrangedash 107}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/2663474.2663486
+      \endverb
+      \verb{file}
+      \verb Xu et al. - 2014 - Comparing Different Moving Target Defense Techniqu.pdf:/home/myself/Zotero/storage/T4XI8F8H/Xu et al. - 2014 - Comparing Different Moving Target Defense Techniqu.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=2663474.2663486
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=2663474.2663486
+      \endverb
+    \endentry
+    \entry{Zhang_Strat_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=cfba473a0ef6d69137684e320ea6eac9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Huan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=47d792469060e7e532a61835854220ea}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Kangfeng},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2f8f42a4d762df31f5f33cf1f7d0c09d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiujuan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8cd98abace334d3339423963ae74d71e}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Shoushan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9e5a02c6c2cd40b7090c4dd06f6200c4}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cdd635fd6fbbd1ac904a520f6569e9b}
+      \strng{fullhash}{45c45e38341db61eaa8c34fe4e4ce60f}
+      \strng{bibnamehash}{7cdd635fd6fbbd1ac904a520f6569e9b}
+      \strng{authorbibnamehash}{7cdd635fd6fbbd1ac904a520f6569e9b}
+      \strng{authornamehash}{7cdd635fd6fbbd1ac904a520f6569e9b}
+      \strng{authorfullhash}{45c45e38341db61eaa8c34fe4e4ce60f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers, Materials \& Continua}
+      \field{month}{01}
+      \field{title}{Strategy Selection for Moving Target Defense in Incomplete Information Game}
+      \field{volume}{61}
+      \field{year}{2019}
+      \field{pages}{763\bibrangedash 786}
+      \range{pages}{24}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,63 @@
+\documentclass[12pt]{report}
+
+\usepackage[latin1]{inputenc}
+\usepackage{lmodern}
+\usepackage{fancyhdr,fancybox}
+\usepackage{latexsym}
+\usepackage{amsfonts,amssymb}
+\usepackage{pifont}
+\usepackage{psfrag}
+\usepackage[french]{babel}
+\usepackage{placeins}
+\usepackage{amsmath,amsthm,amssymb,amsfonts,amsxtra}
+\usepackage{diagbox}
+
+\usepackage{graphicx}
+\graphicspath{ {Images/} }
+
+
+\usepackage{caption}
+\usepackage{subcaption}
+%\usepackage{subfigure}
+
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage{fancyhdr}
+
+\usepackage[acronym,nonumberlist]{glossaries}
+\input{glossary}
+
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[RO,LE]{Thesis Title}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LO,CE]{Chapter \thechapter}
+\fancyfoot[CO,RE]{Author Name}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\theoremstyle{definition}
+\newtheorem{defn}{Definition}[chapter]
+\newtheorem{thm}{Theorem}[chapter]
+\newtheorem{lem}{Lemma}
+\newtheorem{prop}{Proposition}[chapter]
+\newtheorem{tbd}{Todo list}
+
+\newcommand{\bb}[1]{\mathbb{#1}}
+\newcommand{\R}{\bb{R}}
+
+
+\usepackage[style=authoryear,sorting=ynt]{biblatex}
+\addbibresource{./references.bib}
+
+
+\title{C'est ma th\`ese}
+\author{Maxime Ayrault}
+\date{29 F\'evrier 2064}
+
+\begin{document}
+
+\input{Sections/4_resilience}
+
+
+\end{document}

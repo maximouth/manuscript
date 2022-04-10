@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="209.54733mm"
+   height="299.3681mm"
+   viewBox="0 0 209.54733 299.3681"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="dhcp.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2051"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2049"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1462"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1460"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1408"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1406"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1336"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1334"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path843"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2051-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2049-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1462-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1460-9" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1408-0"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1406-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1336-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1334-3" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="429.56272"
+     inkscape:cy="400.37237"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="2.6"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid834"
+       originx="-9.9999994e-06"
+       originy="-12.241468" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,14.609552)">
+    <ellipse
+       style="opacity:1;fill:#f74b4b;fill-opacity:1;stroke:#fc8200;stroke-width:0.66499996;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path815"
+       cx="87.177689"
+       cy="19.957388"
+       rx="14.101507"
+       ry="13.764609" />
+    <ellipse
+       style="opacity:1;fill:#f74b4b;fill-opacity:1;stroke:#fc8200;stroke-width:0.66499996;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path815-8"
+       cx="24.893774"
+       cy="20.281826"
+       rx="14.101507"
+       ry="13.764609" />
+    <rect
+       style="opacity:1;fill:#f74b4b;fill-opacity:1;stroke:#fc8200;stroke-width:0.66499996;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect836"
+       width="14.563849"
+       height="12.846963"
+       x="49.860378"
+       y="75.47464" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.46500003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.5999999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 61.187814,75.474646 64.424228,48.17484 80.606285,32.116127"
+       id="path838"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1336)"
+       d="M 87.079105,33.721999 85.460902,59.415936 64.424228,78.68639"
+       id="path1326"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1408)"
+       d="M 20.732674,33.721999 V 61.021805 L 49.860376,77.080521"
+       id="path1398"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1462)"
+       d="M 53.09679,75.474646 48.242171,51.386578 30.441908,33.721999"
+       id="path1452"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.1036325"
+       y="104.60632"
+       id="text1528"><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="104.60632"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1867">Première connection (allumage de la voiture):</tspan><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="108.77722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1530" /><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="112.88003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1532">- Communication non cryptée (<tspan
+   style="font-weight:bold"
+   id="tspan1534">HTTP</tspan>) avec le serveur DHCP pour obtenir une première adresse IP.</tspan><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="117.05093"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1536">- Visible de toute personne connectée sur le réseau</tspan><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="121.21344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1875" /><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="125.31625"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1877">Renouvellement adresse IP (apres X temps) :</tspan><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="129.47876"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1879">- Communication crypté (<tspan
+   style="font-weight:bold"
+   id="tspan1881">HTTPS</tspan>) pour réclamer une nouvelle adresse au serveur DHCP.</tspan><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="133.64966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1883">- Le serveur communique une nouvelle adresse de façon crypté lui aussi.</tspan><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="137.81218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1885">- Mise à jour en dur dans le système de la nouvelle adresse.</tspan><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="141.9747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1538" /><tspan
+         sodipodi:role="line"
+         x="5.1036325"
+         y="146.0775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1544" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97178411px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.95682"
+       y="17.297091"
+       id="text1889"
+       transform="scale(0.77995845,1.2821196)"><tspan
+         sodipodi:role="line"
+         id="tspan1887"
+         x="24.95682"
+         y="17.297091"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.97178411px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">DHCP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97178411px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="101.21819"
+       y="16.995918"
+       id="text1889-6"
+       transform="scale(0.77995844,1.2821196)"><tspan
+         sodipodi:role="line"
+         id="tspan1887-0"
+         x="101.21819"
+         y="16.995918"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.97178411px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Custom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.44370317px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.537209"
+       y="79.771362"
+       id="text1889-5"
+       transform="scale(0.94592192,1.0571697)"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1"
+         x="56.537209"
+         y="79.771362"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.44370317px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">V1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.733646"
+       y="40.57737"
+       id="text1889-5-1"
+       transform="scale(0.94068036,1.0630604)"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2"
+         x="45.733646"
+         y="40.57737"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">(1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="65.248024"
+       y="40.53368"
+       id="text1889-5-1-0"
+       transform="scale(0.94068033,1.0630604)"
+       inkscape:transform-center-x="2.7395127"
+       inkscape:transform-center-y="1.9377041"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-3"
+         x="65.248024"
+         y="40.53368"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">(1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.263184"
+       y="56.247135"
+       id="text1889-5-1-8"
+       transform="scale(0.94068033,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7"
+         x="24.263184"
+         y="56.247135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">(2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.437508"
+       y="55.687515"
+       id="text1889-5-1-8-5"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-4"
+         x="82.437508"
+         y="55.687515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">(2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.474842"
+       y="50.2202"
+       id="text1889-5-1-8-9"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9"
+         x="24.474842"
+         y="50.2202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">udp:67</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="74.983917"
+       y="49.50288"
+       id="text1889-5-1-8-9-1"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-2"
+         x="74.983917"
+         y="49.50288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">HTTPS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="71.958534"
+       y="88.964951"
+       id="text1889-5-1-8-9-1-6"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-2-8"
+         x="71.958534"
+         y="88.964951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">MAJ IP</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2051)"
+       d="m 62.177083,89.302084 2.645833,6.614583 -6.614583,3.96875 -7.9375,-3.96875 2.645833,-6.614583"
+       id="path2041"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.29282743"
+       y="44.633472"
+       id="text1889-5-1-8-9-1-6-1"
+       transform="scale(0.92995425,1.0753217)"
+       inkscape:transform-center-x="1.0358423"
+       inkscape:transform-center-y="0.5829282"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-2-8-8"
+         x="0.29282743"
+         y="44.633472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Première </tspan><tspan
+         sodipodi:role="line"
+         x="0.29282743"
+         y="48.656834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2113">connection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="95.604416"
+       y="48.32423"
+       id="text1889-5-1-8-9-1-6-1-0"
+       transform="scale(0.92995426,1.0753217)"
+       inkscape:transform-center-x="1.0358423"
+       inkscape:transform-center-y="0.5829282"><tspan
+         sodipodi:role="line"
+         x="95.604416"
+         y="48.32423"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2113-7">connections</tspan><tspan
+         sodipodi:role="line"
+         x="95.604416"
+         y="52.347591"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2138">futures</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,145.19765 H 209.02083"
+       id="path2140"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="128.60719"
+       y="37.406628"
+       id="text1889-5-1-8-9-1-6-0"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-2-8-3"
+         x="128.60719"
+         y="37.406628"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Possible si méchanismes de demande</tspan><tspan
+         sodipodi:role="line"
+         x="128.60719"
+         y="42.54834"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2168">de changement d'addresse IP.</tspan><tspan
+         sodipodi:role="line"
+         x="128.60719"
+         y="47.690052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2172">(Pour l'instant pas existant et pas </tspan><tspan
+         sodipodi:role="line"
+         x="128.60719"
+         y="52.821438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2176">testable)</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#f74b4b;fill-opacity:1;stroke:#fc8200;stroke-width:0.66499996;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path815-9"
+       cx="90.891029"
+       cy="162.44659"
+       rx="14.101507"
+       ry="13.764609" />
+    <ellipse
+       style="opacity:1;fill:#f74b4b;fill-opacity:1;stroke:#fc8200;stroke-width:0.66499996;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path815-8-4"
+       cx="28.607115"
+       cy="162.77104"
+       rx="14.101507"
+       ry="13.764609" />
+    <rect
+       style="opacity:1;fill:#f74b4b;fill-opacity:1;stroke:#fc8200;stroke-width:0.66499996;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect836-9"
+       width="14.563849"
+       height="12.846963"
+       x="53.573715"
+       y="217.96385" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1336-0)"
+       d="m 90.792441,176.21121 -1.6182,25.69394 -21.036671,19.27045"
+       id="path1326-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1408-0)"
+       d="m 24.446015,176.21121 v 27.2998 l 29.127703,16.05872"
+       id="path1398-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1462-2)"
+       d="M 56.810133,217.96385 51.955513,193.87579 34.155248,176.21121"
+       id="path1452-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97178411px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.717768"
+       y="128.43275"
+       id="text1889-2"
+       transform="scale(0.77995844,1.2821196)"><tspan
+         sodipodi:role="line"
+         id="tspan1887-06"
+         x="29.717768"
+         y="128.43275"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.97178411px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">DHCP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97178411px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.97913"
+       y="128.27898"
+       id="text1889-6-5"
+       transform="scale(0.77995843,1.2821196)"><tspan
+         sodipodi:role="line"
+         id="tspan1887-0-9"
+         x="105.97913"
+         y="128.27898"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.97178411px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Custom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.44370317px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="60.462841"
+       y="214.55502"
+       id="text1889-5-5"
+       transform="scale(0.94592193,1.0571697)"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-6"
+         x="60.462841"
+         y="214.55502"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.44370317px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">V1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.681152"
+       y="174.61415"
+       id="text1889-5-1-1"
+       transform="scale(0.94068033,1.0630604)"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-1"
+         x="49.681152"
+         y="174.61415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">(1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="84.5382"
+       y="188.14688"
+       id="text1889-5-1-0-4"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="2.7395127"
+       inkscape:transform-center-y="1.9377041"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-3-3"
+         x="84.5382"
+         y="188.14688"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">(1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.21069"
+       y="190.28392"
+       id="text1889-5-1-8-7"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-2"
+         x="28.21069"
+         y="190.28392"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">(2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.426872"
+       y="184.96809"
+       id="text1889-5-1-8-9-3"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-9"
+         x="29.426872"
+         y="184.96809"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">UDP:67</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="93.705856"
+       y="195.35619"
+       id="text1889-5-1-8-9-1-2"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-2-4"
+         x="93.705856"
+         y="195.35619"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">HTTPS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75.906044"
+       y="223.00174"
+       id="text1889-5-1-8-9-1-6-4"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-2-8-4"
+         x="75.906044"
+         y="223.00174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">MAJ IP</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2051-6)"
+       d="m 65.890424,231.79129 2.645833,6.61459 -6.614583,3.96875 -7.9375,-3.96875 2.645833,-6.61459"
+       id="path2041-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.2858644"
+       y="177.14191"
+       id="text1889-5-1-8-9-1-6-1-9"
+       transform="scale(0.92995426,1.0753217)"
+       inkscape:transform-center-x="1.0358423"
+       inkscape:transform-center-y="0.5829282"><tspan
+         sodipodi:role="line"
+         id="tspan1887-1-2-7-9-2-8-8-3"
+         x="4.2858644"
+         y="177.14191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Première </tspan><tspan
+         sodipodi:role="line"
+         x="4.2858644"
+         y="181.16527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2113-8">connection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.597458"
+       y="180.83267"
+       id="text1889-5-1-8-9-1-6-1-0-3"
+       transform="scale(0.92995427,1.0753217)"
+       inkscape:transform-center-x="1.0358423"
+       inkscape:transform-center-y="0.5829282"><tspan
+         sodipodi:role="line"
+         x="99.597458"
+         y="180.83267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2113-7-2">connections</tspan><tspan
+         sodipodi:role="line"
+         x="99.597458"
+         y="184.85603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17251682px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2138-9">futures</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="281.70209"
+       y="121.40392"
+       id="text2392"><tspan
+         sodipodi:role="line"
+         id="tspan2390"
+         x="281.70209"
+         y="124.30794"
+         style="stroke-width:0.26458332"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.440497"
+       y="-9.8038836"
+       id="text1528-4"><tspan
+         sodipodi:role="line"
+         id="tspan1526-3"
+         x="1.440497"
+         y="-9.8038836"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Personne connecté sur le réseau =</tspan><tspan
+         sodipodi:role="line"
+         x="1.440497"
+         y="-5.6329865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1869-9">- Une voiture légitime.</tspan><tspan
+         sodipodi:role="line"
+         x="1.440497"
+         y="-1.4704686"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1544-4"><tspan
+   style="font-style:normal;stroke-width:0.26458332"
+   id="tspan1873-9">- Une voiture légitime d'un attaquant avec un &quot;sniffer&quot; de réseau interceptant toutes les communications</tspan>.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.40533352px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion2538"><rect
+           id="rect2540"
+           width="158.57143"
+           height="12.857142"
+           x="837.14288"
+           y="693.94824" /></flowRegion><flowPara
+         id="flowPara2542"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.605608"
+       y="249.90936"
+       id="text1528-1"><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="249.90936"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1867-7">Première connection (allumage de la voiture):</tspan><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="254.08026"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1530-9" /><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="258.18307"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1532-3">- Communication non cryptée (<tspan
+   style="font-weight:bold;stroke-width:0.26458332"
+   id="tspan1534-6">HTTP</tspan>) avec le serveur DHCP pour obtenir une première adresse IP.</tspan><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="262.35397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1536-2">- Visible de toute personne connectée sur le réseau</tspan><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="266.51648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1875-1" /><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="270.61929"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1877-2">Renouvellement adresse IP (après fin de vie de l'adresse IP) :</tspan><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="274.7818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1879-5">- Le serveur cherche, trouve et attribue une nouvelle adresse</tspan><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="278.94434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1883-9">- Le serveur communique une nouvelle adresse de façon crypté (<tspan
+   style="font-weight:bold"
+   id="tspan2687">HTTPS</tspan>) à la voiture.</tspan><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="283.1152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1885-1">- Mise à jour (en dur?) dans le système de la nouvelle adresse.</tspan><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="287.27774"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1538-8" /><tspan
+         sodipodi:role="line"
+         x="6.605608"
+         y="291.38055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28224444px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1544-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.38885"
+       y="161.00932"
+       id="text1889-5-1-8-9-1-6-0-0"
+       transform="scale(0.94068032,1.0630604)"
+       inkscape:transform-center-x="1.3363476"
+       inkscape:transform-center-y="0.7349912"><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="161.00932"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2176-7">Mise a jour de la durée de vie d'une </tspan><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="166.1407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2788">adresse dans le serveur dhcp pour être </tspan><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="171.27209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2790">fixe petite, utilie au MTD et viable </tspan><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="176.40347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2792">dans le réseau.</tspan><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="181.53485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2794">Déjà existant</tspan><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="186.66624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2811" /><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="191.72401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2813">visible et testable, </tspan><tspan
+         sodipodi:role="line"
+         x="126.38885"
+         y="196.85539"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04621792px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2815">openstack et wireshark</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.52650929,2.7362501 H 209.54734"
+       id="path2140-3"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+\documentclass[12pt]{report}
+
+\usepackage[latin1]{inputenc}
+\usepackage{lmodern}
+\usepackage{fancyhdr,fancybox}
+\usepackage{latexsym}
+\usepackage{amsfonts,amssymb}
+\usepackage{pifont}
+\usepackage{psfrag}
+\usepackage{placeins}
+
+\usepackage{graphicx}
+\graphicspath{ {Images/} }
+
+\usepackage{caption}
+\usepackage{subcaption}
+%\usepackage{subfigure}
+
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage{fancyhdr}
+
+\usepackage[acronym,nonumberlist]{glossaries}
+\input{glossary}
+
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[RO,LE]{Thesis Title}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LO,CE]{Chapter \thechapter}
+\fancyfoot[CO,RE]{Author Name}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+\usepackage[style=authoryear,sorting=ynt]{biblatex}
+\addbibresource{./references.bib}
+
+
+\newtheorem{tbd}{Todo list}
+
+
+\title{C'est ma th\`ese}
+\author{Maxime Ayrault}
+\date{29 F\'evrier 2064}
+
+\begin{document}
+
+\input{Sections/2_securite}
+
+
+\end{document}

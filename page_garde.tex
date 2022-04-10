@@ -1,0 +1,77 @@
+\thispagestyle{empty}
+
+\color{black} \hfill \vfill \tiny \ecodocnum
+\begin{textblock}{4.5}(0,0)
+	\textblockcolour{black}
+	%\vspace{10mm}
+	\includegraphics [scale=0.8]{media/bande.png}
+	\vspace{300mm}
+\end{textblock}
+
+
+\begin{textblock}{1}(0.6,3)
+	\small{\rotatebox{90}{\color{white}{\textbf{NNT : \NNT}}}}
+\end{textblock}
+
+
+\begin{textblock}{1}(\hpos,\vpos)
+	\textblockcolour{white}
+	\includegraphics[scale=1]{media/etab/\logoEt.png}
+\end{textblock}
+
+
+%\vspace{6cm}
+%% Texte
+\begin{textblock}{10}(5.2,3)
+	\textblockcolour{white}
+	
+	\color{black}
+	%\begin{center}  
+	\begin{flushright}
+		\Large{\PhDTitle} \\ \bigskip %% Titre de la these 
+		\vfill
+		\color{black} %% Couleur noire du reste du texte
+		\small {These de doctorat de l'Institut Polytechnique de Paris} \\
+		pr\'epar\'ee à \PhDworkingplace \\ \bigskip
+		\vfill
+		\'Ecole doctorale n$^{\circ}$\ecodocnum ~\ecodoctitle ~(\ecodocacro)  \\
+		
+		\footnotesize{Sp\'ecialit\'e de doctorat: \PhDspeciality} \\ \bigskip %% Sp\'ecialit\'e 
+		\vfill  
+		\scriptsize{These pr\'esent\'ee et soutenue à \defenseplace, le \defensedate, par} \\ \bigskip
+		\vfill
+		\small{\textbf{\textsc{\PhDname}}} %% Nom du docteur
+		\vfill
+		%\bigskip
+	\end{flushright}
+	
+	%\end{center}
+	\color{black}
+	%% Jury
+	\begin{flushleft}	
+	  \small Composition du Jury :
+	\end{flushleft}
+	%% Members of the jury
+
+%	\small
+	%\begin{center}
+	\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+	\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}lm{#1}}
+	
+	\label{jury} 																				%% Mettre à jour si des membres ont \'et\'e ajout\'es ou retir\'es / Update if members have been added or removed
+	\begin{flushleft}
+	\begin{tabular}{@{} L{9.64cm} R{4.5cm}}
+		\jurynameA  \\ \juryadressA & \juryroleA \\[5pt]
+		\jurynameB  \\ \juryadressB & \juryroleB \\[5pt]
+		\jurynameC  \\ \juryadressC & \juryroleC \\[5pt]
+		\jurynameD  \\ \juryadressD & \juryroleD \\[5pt]
+		\jurynameE  \\ \juryadressE & \juryroleE \\[5pt]
+		\jurynameF  \\ \juryadressF & \juryroleF \\[5pt]
+		\jurynameG  \\ \juryadressG & \juryroleG \\[5pt]
+		\jurynameH  \\ \juryadressH & \juryroleH \\[5pt]
+	\end{tabular} 
+	\end{flushleft}   
+	%\end{center}
+\end{textblock}
+
+\newpage

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="292.86359mm"
+   height="328.67538mm"
+   viewBox="0 0 292.86358 328.67539"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="draw_archi.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6586"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6584"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient6434"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#005bd3;stop-opacity:1;"
+         offset="0"
+         id="stop6432" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4613"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4894"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4892"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4610"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4610-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4613-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4610-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4613-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-6-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4610-8-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2-9"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4613-3-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4693182"
+     inkscape:cx="869.18534"
+     inkscape:cy="639.07394"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-text-baseline="false"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       originx="43.978173"
+       originy="70.577837" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(43.978174,-38.902432)">
+    <g
+       transform="translate(92.604168,134.93749)"
+       id="g4523-6-7-9"
+       style="opacity:0.32000002;fill:#d24941;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         style="fill:#d24941;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="50.9375"
+         x="13.229166"
+         height="29.104166"
+         width="47.625"
+         id="rect12-9-0-4" />
+    </g>
+    <rect
+       style="opacity:0.281;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.90345627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4966"
+       width="84.666672"
+       height="113.77084"
+       x="-5.2916698"
+       y="40.35416" />
+    <g
+       id="g4523"
+       style="opacity:0.32000002;fill:#005bd3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         style="fill:#005bd3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="50.9375"
+         x="13.229166"
+         height="29.104166"
+         width="47.625"
+         id="rect12" />
+    </g>
+    <g
+       transform="translate(2.5431315e-6,63.5)"
+       id="g4523-6"
+       style="opacity:0.32000002;fill:#005bd3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         style="fill:#005bd3;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="50.9375"
+         x="13.229166"
+         height="29.104166"
+         width="47.625"
+         id="rect12-9" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 37.041666,80.041667 V 114.4375"
+       id="path4608"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4894);marker-end:url(#marker6586)"
+       d="M -21.166667,64.16666 H 13.229166"
+       id="path6550"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43.644924"
+       y="67.101768"
+       id="text4582-9"><tspan
+         sodipodi:role="line"
+         id="tspan4580-0"
+         x="-43.644924"
+         y="67.101768"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">USB</tspan></text>
+    <g
+       transform="translate(2.5431315e-6,134.9375)"
+       id="g4523-6-7"
+       style="opacity:0.32000002;fill:#a741d2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         style="fill:#a741d2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="50.9375"
+         x="13.229166"
+         height="29.104166"
+         width="47.625"
+         id="rect12-9-0" />
+    </g>
+    <g
+       transform="translate(186.53125,134.93749)"
+       id="g4523-6-7-7"
+       style="opacity:0.32000002;fill:#452951;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         style="fill:#452951;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="50.9375"
+         x="13.229166"
+         height="29.104166"
+         width="47.625"
+         id="rect12-9-0-7" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28936103;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-8);marker-end:url(#Arrow1Lend-0)"
+       d="m 37.041665,144.86458 v 41.01041"
+       id="path4608-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.29854935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-6);marker-end:url(#Arrow1Lend-2)"
+       d="m 105.83333,199.10416 -43.656239,-0.032"
+       id="path4608-85"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.29854935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-6-0);marker-end:url(#Arrow1Lend-2-9)"
+       d="m 198.4375,197.78124 -43.65624,-0.032"
+       id="path4608-85-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.461735"
+       y="68.551697"
+       id="text4582"><tspan
+         sodipodi:role="line"
+         id="tspan4580"
+         x="25.461735"
+         y="68.551697"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">ARM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.461739"
+       y="132.0517"
+       id="text4582-4"><tspan
+         sodipodi:role="line"
+         id="tspan4580-4"
+         x="25.461739"
+         y="132.0517"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">ARM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.46174"
+       y="203.4892"
+       id="text4582-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan4580-4-0"
+         x="25.46174"
+         y="203.4892"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">SGW</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.71017"
+       y="203.77109"
+       id="text4582-4-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan4580-4-0-6"
+         x="112.71017"
+         y="203.77109"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Bastion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="201.28154"
+       y="203.20732"
+       id="text4582-4-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan4580-4-0-1"
+         x="201.28154"
+         y="203.20732"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">BlackBox</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.92412066px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09810302"
+       x="-32.807961"
+       y="55.953091"
+       id="text4582-8"
+       transform="scale(0.98513899,1.0150852)"
+       inkscape:transform-center-x="3.2786635"
+       inkscape:transform-center-y="-9.1232941"><tspan
+         sodipodi:role="line"
+         id="tspan4580-5"
+         x="-32.807961"
+         y="55.953091"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.92412066px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09810302">1</tspan></text>
+    <ellipse
+       style="opacity:0.997;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37078306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8918"
+       cx="-31.488941"
+       cy="55.518055"
+       rx="2.6577406"
+       ry="2.489573"
+       inkscape:transform-center-x="3.2416262"
+       inkscape:transform-center-y="-9.0201824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.92412043px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09810302"
+       x="66.119194"
+       y="57.575062"
+       id="text4582-8-2"
+       transform="scale(0.98513898,1.0150852)"
+       inkscape:transform-center-x="3.2786635"
+       inkscape:transform-center-y="-9.1232941"><tspan
+         sodipodi:role="line"
+         id="tspan4580-5-8"
+         x="66.119194"
+         y="57.575062"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.92412043px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09810302">2</tspan></text>
+    <ellipse
+       style="opacity:0.997;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37078306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8918-3"
+       cx="65.968056"
+       cy="57.164494"
+       rx="2.6577406"
+       ry="2.489573"
+       inkscape:transform-center-x="3.2416262"
+       inkscape:transform-center-y="-9.0201824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.92412043px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09810302"
+       x="66.564651"
+       y="121.11593"
+       id="text4582-8-7"
+       transform="scale(0.98513898,1.0150852)"
+       inkscape:transform-center-x="3.2786635"
+       inkscape:transform-center-y="-9.1232941"><tspan
+         sodipodi:role="line"
+         id="tspan4580-5-87"
+         x="66.564651"
+         y="121.11593"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.92412043px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09810302">3</tspan></text>
+    <ellipse
+       style="opacity:0.997;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37078306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8918-2"
+       cx="66.406891"
+       cy="121.66389"
+       rx="2.6577406"
+       ry="2.489573"
+       inkscape:transform-center-x="3.2416262"
+       inkscape:transform-center-y="-9.0201824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.92412043px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09810302"
+       x="50.703789"
+       y="179.73093"
+       id="text4582-8-72"
+       transform="scale(0.98513898,1.0150852)"
+       inkscape:transform-center-x="3.2786635"
+       inkscape:transform-center-y="-9.1232941"><tspan
+         sodipodi:role="line"
+         id="tspan4580-5-3"
+         x="50.703789"
+         y="179.73093"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.92412043px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09810302">4</tspan></text>
+    <ellipse
+       style="opacity:0.997;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37078306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8918-5"
+       cx="50.781742"
+       cy="181.1631"
+       rx="2.6577406"
+       ry="2.489573"
+       inkscape:transform-center-x="3.2416262"
+       inkscape:transform-center-y="-9.0201824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.92412043px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09810302"
+       x="110.46653"
+       y="179.70885"
+       id="text4582-8-5"
+       transform="scale(0.98513898,1.0150852)"
+       inkscape:transform-center-x="3.2786635"
+       inkscape:transform-center-y="-9.1232941"><tspan
+         sodipodi:role="line"
+         id="tspan4580-5-4"
+         x="110.46653"
+         y="179.70885"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.92412043px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09810302">5</tspan></text>
+    <ellipse
+       style="opacity:0.997;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37078306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8918-8"
+       cx="109.65633"
+       cy="181.14069"
+       rx="2.6577406"
+       ry="2.489573"
+       inkscape:transform-center-x="3.2416262"
+       inkscape:transform-center-y="-9.0201824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.92412043px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09810302"
+       x="204.91635"
+       y="180.45671"
+       id="text4582-8-0"
+       transform="scale(0.98513898,1.0150852)"
+       inkscape:transform-center-x="3.2786635"
+       inkscape:transform-center-y="-9.1232941"><tspan
+         sodipodi:role="line"
+         id="tspan4580-5-7"
+         x="204.91635"
+         y="180.45671"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.92412043px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09810302">6</tspan></text>
+    <ellipse
+       style="opacity:0.997;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37078306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8918-89"
+       cx="202.70255"
+       cy="181.89984"
+       rx="2.6577406"
+       ry="2.489573"
+       inkscape:transform-center-x="3.2416262"
+       inkscape:transform-center-y="-9.0201824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.19973707px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15499343"
+       x="91.442703"
+       y="57.061073"
+       id="text4582-5"
+       transform="scale(0.87145977,1.1474999)"><tspan
+         sodipodi:role="line"
+         id="tspan4580-6"
+         x="91.442703"
+         y="57.061073"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.19973707px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15499343">- 32 bits Linux</tspan><tspan
+         sodipodi:role="line"
+         x="91.442703"
+         y="64.871292"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.19973707px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15499343"
+         id="tspan9037">- Rich OS Zero confidence in it</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.85148048px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14628701"
+       x="90.499046"
+       y="109.49269"
+       id="text4582-5-9"
+       transform="scale(0.88415196,1.1310273)"><tspan
+         sodipodi:role="line"
+         id="tspan4580-6-9"
+         x="90.499046"
+         y="109.49269"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701">- 32 bits Autosar</tspan><tspan
+         sodipodi:role="line"
+         x="90.499046"
+         y="116.86418"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan9037-2">- Certify OS, Trust in it</tspan><tspan
+         sodipodi:role="line"
+         x="90.499046"
+         y="124.23568"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1007">- Use to filter messages from the other CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.85148048px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14628701"
+       x="6.8536897"
+       y="212.6153"
+       id="text4582-5-9-4"
+       transform="scale(0.88415196,1.1310273)"><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="212.6153"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1007-3">Main objective is to send a message from 1 to 6.</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="219.98679"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1038" /><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="227.30115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1040">To acheive it :</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="234.67264"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1042">   - Being able to to earn root right with privilege escalation from 1 to 2.</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="242.04413"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1044">   - Send a RPC command from 2 to 3 to make 3 enter ther debug mode.</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="249.41562"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1046">   - Re write 3 to be able to send message from 2 to 4.</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="256.78711"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1048">   - If the messages are well written they can pass to 6.</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="264.1586"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1050" /><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="271.47296"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1052">Second objective :</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="278.84445"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1054">Consider 1-2-3 compromize.</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="286.21594"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1056">What 5 is doing to stop fraudulent messages?</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="293.58743"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1058">Bypass 5 defense to communicate with 6.</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="300.95892"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1064" /><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="308.27328"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1066">2 points of vue :</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="315.64478"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1068">-&gt; how to compromize 1-2-3</tspan><tspan
+         sodipodi:role="line"
+         x="6.8536897"
+         y="323.01627"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.85148048px;font-family:'Comic Neue Angular';-inkscape-font-specification:'Comic Neue Angular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.14628701"
+         id="tspan1070">-&gt; What to do then to bypass 5 if 1-2-3 is compromize.</tspan></text>
+  </g>
+</svg>

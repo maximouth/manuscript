@@ -1,0 +1,232 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}State of the Art}{10}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Terms definition}{10}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Moving Target Defense}{13}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}MTD Categories}{13}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dynamic Data}{13}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ Dynamic Soft}{14}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ Dynamic Runtime Environment}{14}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ Dynamic Platform}{15}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dynamic Network}{15}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Measuring the effectiveness}{15}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ First approach}{16}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ Second approach }{16}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ Third approach }{17}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ Forth approach}{17}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3} Different way to measure effectiveness}{17}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{ Graph only}{17}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Graph plus input data}{18}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4} Attack Timeline}{18}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Game Theory}{19}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Presentation}{19}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}General Definition}{20}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Game representation}{20}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Strategie}{21}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dominance}{21}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pure Strategie}{22}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Mixed Strategie}{22}{section*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.5}Types of game}{22}{subsection.2.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Simultaneous Game}{22}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Turn by turn Game}{22}{section*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Bayesian Game}{22}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Stochastic Game}{23}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dynamic Game}{23}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Learning Game}{23}{section*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.6}Game resolution}{23}{subsection.2.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Nash Equilibrium}{23}{section*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Stackelberg Equilibrium}{23}{section*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Harsanyi Transformation }{23}{section*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Complementary slackness}{23}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.7}DOBSS}{23}{subsection.2.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Risk Analysis}{24}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Attack tree}{24}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Fault tree}{24}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}(Dynamic) Reliability Block Diagrams (D)RBD}{25}{subsection.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Reliability Block Diagrams}{25}{section*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dynamic Reliability Block Diagrams}{26}{section*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}Boolean logic Driven Markov Processes (BDMP)}{27}{subsection.2.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Boolean logic Driven Markov Processes formalism}{29}{section*.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.5}CVSS}{29}{subsection.2.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Network}{30}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Multipath TCP}{30}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}IP v6}{30}{subsection.2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.3}Car Network Topology}{31}{subsection.2.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.4}Attack Entrypoints}{32}{subsection.2.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.5}Time to find An IP}{32}{subsection.2.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Cyber-security principles}{33}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Connected Cars}{36}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}The software revolution}{36}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Modern car software architecture}{38}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}AUTOSAR}{38}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}The software stacks}{40}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Le risque cybers\'ecurit\'e pour l'automobile}{41}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Car architecture over time }{42}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Car Architecture we used}{42}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Existing Attacks}{42}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Existing Defense}{42}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Dynamic IPv6 addresses Switching}{49}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Problem Statement}{49}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Motivating Example}{50}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Pool-based Ip address Switch}{50}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1} Pool-based IP Address Switches}{51}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Approach Principle}{51}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3} Example}{52}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4}Protection}{53}{subsection.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.5}Cost}{53}{subsection.4.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.6} Discussion}{53}{subsection.4.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Randomized Pool-based IP Address Switches}{54}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Approach principle}{54}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2} Example}{54}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}Costs}{55}{subsection.4.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.4}Randomization on Demand}{55}{subsection.4.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.5}Discussion}{56}{subsection.4.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Conclusion}{56}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Game Theory usage}{58}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Motivating Example }{59}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Model presentation}{61}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Model Structure}{62}{subsection.5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Input Parameters}{63}{subsection.5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}How to Determine the Parameters}{64}{subsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Success Probability: $\setbox \z@ \hbox {\frozen@everymath \@emptytoks \mathsurround \z@ $\textstyle Sp$}\mathaccent "0362{Sp}_{nmp}$}{64}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Attacker Gain: $\setbox \z@ \hbox {\frozen@everymath \@emptytoks \mathsurround \z@ $\textstyle W$}\mathaccent "0362{W}_{np}$}{65}{section*.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Attack Cost: $\setbox \z@ \hbox {\frozen@everymath \@emptytoks \mathsurround \z@ $\textstyle C$}\mathaccent "0362{C}_{nmp}$}{65}{section*.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Attacker Appearance Probability: $\setbox \z@ \hbox {\frozen@everymath \@emptytoks \mathsurround \z@ $\textstyle \gamma $}\mathaccent "0362{\gamma }_p$}{65}{section*.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Defender Node Gain: $W_{np}$}{66}{section*.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{MTD Usage Cost: $C^{MTD}_{nm}$}{66}{section*.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Game Formalization}{66}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Game Form}{66}{subsection.5.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Reward}{66}{subsection.5.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3}Payoff function}{67}{subsection.5.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4}Complementary Slackness}{68}{subsection.5.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.5}Mixed Integer Quadratic Program (MIQP)}{68}{subsection.5.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Game Resolution}{69}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}MIQP to MILP Transformation}{69}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Mixed Integer Linear Problem (MILP)}{70}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}Correspondence between the MIQP and the MILP }{71}{subsection.5.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Experimentation}{72}{section.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.1}Experimental Case}{72}{subsection.5.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.2}Scaling tests}{74}{subsection.5.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Random generator}{74}{section*.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Fixed attacker profiles generator}{75}{section*.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.3}Stability Analysis}{76}{subsection.5.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Conclusions et perspectives}{79}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Les fronti\`eres de la recherche}{79}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Ma belle annexe}{85}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introduction}{85}{section.A.1}
